@@ -1,4 +1,4 @@
- 
+
     function animate_text_left (text_tag) {
         $('.stack.present .present '+text_tag).attr( "data-effect", "slideInLeft" );
         $('.stack.present .past '+text_tag).removeClass('animated slideInLeft').addClass('');
@@ -29,8 +29,7 @@
     }
 
      function progress_year () {
-        
-        function hasClass(element, cls) {
+ function hasClass(element, cls) {
             return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
         }
 
@@ -106,7 +105,7 @@
     //     // out: { effect: 'fadeOutLeft' }
     // });
 
-    
+
     $(window).bind('load', function() {
         $('.timeline-container').css('opacity',1).animate({opacity:1}, 1000);
     });
@@ -116,40 +115,18 @@
         progress_year();
     });
 
+    $('.intro-list li').on('click', function(e) {
+        animate_content();
+        progress_year();
+        console.log("test");
+    });
+
     $('.controls button').on('click', function(e) {
         animate_content();
         progress_year();
     });
 
-    $(document).on('keypress', function(e) {
-        if(e.which == 37) {
-            animate_content();
-            progress_year();
-            console.log('37');
-        }
-    });
-    $(document).on('keypress', function(e) {
-        if(e.which == 38) {
-            animate_content();
-            progress_year();
-            console.log('38');
-        }
-    });
-    $(document).on('keypress', function(e) {
-        if(e.which == 39) {
-            animate_content();
-            progress_year();
-            console.log('39');
-        }
-    });
-    $(document).on('keypress', function(e) {
-        if(e.which == 40) {
-            animate_content();
-            progress_year();
-            console.log('40');
-        }
-    });
-    $('body').keyup(function () {
+    $('body').keyup(function (event) {
         animate_content();
         progress_year();
     });
@@ -164,4 +141,47 @@
         progress_year();
     } });
 
+    Reveal.initialize({
+      history: true,
+      progress: false,
+      controls: false
+      // transition: 'slide',
+      // transitionSpeed: 'slow',
+      // backgroundTransition: 'slide'
+    });
+
+      if (navigator.userAgent.indexOf('Mac OS X') != -1) {
+        $("body").addClass("mac");
+      } else {
+        $("body").addClass("windows");
+      }
+
+      Reveal.configure({
+        keyboard: {
+          37: function(event) {
+              var index = Reveal.getIndices();
+              if(index.v > 0) {
+                return false;
+              } else {
+                Reveal.left();
+              }
+          },
+          38: function(event) { Reveal.up(); },
+          39: function(event) {
+              var index = Reveal.getIndices();
+              if(index.v > 0) {
+                return false;
+              } else {
+                Reveal.right();
+              }
+           },
+          40: function(event) { Reveal.down(); }
+        }
+      });
+
+      Reveal.addEventListener('fragmentshown', function( event ) {
+        if (event.fragment.id == "moveToTop") {
+          Reveal.slide(Reveal.getIndices()["h"], 0);
+        }
+      }
   });

@@ -518,6 +518,40 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 	.timeline-container .timeline-title img { width: 57px; }
 }*/
 
+.bullet-lists-container {
+    position: relative;
+    top: 225px;
+    right: -1175px;
+    width: 20px;
+    z-index: 10000;
+}
+
+ul.bullet-lists.intro-list {
+    list-style: none;
+}
+
+ul.bullet-lists.intro-list li {
+    content: " ";
+    color: #FFF;
+    border: solid 1px white;
+    border-radius: 40px;
+    width: 9px;
+    height: 9px;
+    margin: 8px;
+		background: #fff;
+}
+
+ul.bullet-lists.intro-list li.selected {
+	border: solid 1px #ecaa20;
+	background: #ecaa20;
+}
+
+ul.bullet-lists.intro-list li a {
+    display: block;
+    width: 9px;
+    height: 9px;
+}
+
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 	#fifth-slide .slide-2 .inner-content .lower-content .display-flex { line-height: .93; }
 	.mac #tenth-slide .slide-2 .bg-container p {    padding-top: 8px;}

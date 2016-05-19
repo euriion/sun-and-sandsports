@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="" lang="en" data-state="above-the-fold-state landing-page bg-whitetogray bg-graytowhite bg-graywhitelight darkgraywhitelight bg-graytowhite-alt">
+<html ng-app="SunAndSandSports" class="" lang="en" data-state="above-the-fold-state landing-page bg-whitetogray bg-graytowhite bg-graywhitelight darkgraywhitelight bg-graytowhite-alt">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -29,7 +29,7 @@
 			}
 		?>
 	</head>
-	<body class="">
+	<body class="" ng-controller="mainController as main">
 		<div class="reveal jumbotron">
 			<header id="header-container" class="header-container">
 				<div class="container">
@@ -124,6 +124,7 @@
 								</div>
 							</div>
 						</div>
+						<span class="fragment" id="moveToTop"></span>
 					</section>
 				</section>
 				<?php /**
@@ -790,7 +791,7 @@
 
 			<div class="timeline-container">
 				<div class="container">
-				    <div class='timeline-title'></div>
+				    <div class='timeline-title'><img src="images/years/1500.png" alt="1500"></div>
 				    <div class='timeline-title'><img src="images/years/1500.png" alt="1500"></div>
 				    <div class='timeline-title'><img src="images/years/1800_1990.png" alt="1800_1990"></div>
 				    <div class='timeline-title'><img src="images/years/1940_1950.png" alt="1940_1950"></div>
@@ -802,25 +803,23 @@
 				    <div class='timeline-title'><img src="images/years/2010_future.png" alt="2010_future"></div>
 			    </div>
 			</div>
+
+			<div class="bullet-lists-container">
+				<ul class='bullet-lists intro-list'>
+					<li ng-class="{'selected': mainController.selected == '01'}" ng-click="Reveal.slide(1)"><a href="#/"></a></li>
+					<li ng-class="{'selected': mainController.selected == '02'}" ng-click="Reveal.slide(2)"><a href="#/0/1"></a></li>
+					<li ng-class="{'selected': mainController.selected == '03'}" ng-click="Reveal.slide(3)"><a href="#/0/2"></a></li>
+					<li ng-class="{'selected': mainController.selected == '04'}" ng-click="Reveal.slide(4)"><a href="#/0/3"></a></li>
+					<li ng-class="{'selected': mainController.selected == '05'}" ng-click="Reveal.slide(5)"><a href="#/0/4"></a></li>
+				</ul>
+			</div>
 		</div>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
     <!-- <script src="lib/js/head.min.js"></script> -->
     <script src="js/reveal.js"></script>
     <script>
-      Reveal.initialize({
-        history: true,
 
-        // transition: 'slide',
-        // transitionSpeed: 'slow',
-        // backgroundTransition: 'slide'
-      });
-
-        if (navigator.userAgent.indexOf('Mac OS X') != -1) {
-          $("body").addClass("mac");
-        } else {
-          $("body").addClass("windows");
-        }
     </script>
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
@@ -836,5 +835,8 @@
 	<script>
 	window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return t;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
 	</script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/angular.router.min.js"></script>
+	<script type="text/javascript" src="js/angular-caliber.js"></script>
 	</body>
 </html>
