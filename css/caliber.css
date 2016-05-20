@@ -71,6 +71,8 @@ ul { margin: 0; }
 
 .col-container { display: block; }
 .row { display: inline-block; width: 100%; }
+.col-1 { width: 80px; display: inline-block; float: left; }
+.col-10 { width: 800px; display: inline-block; float: left; }
 .col-6 { width: 50%; display: inline-block; float: left; }
 .col-6:after { display: table; }
 
@@ -518,12 +520,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 	.timeline-container .timeline-title img { width: 57px; }
 }*/
 
+.main-container{
+	height: 100;
+}
+
 .bullet-lists-container {
-    position: relative;
-    top: 225px;
-    right: -1175px;
-    width: 20px;
-    z-index: 10000;
+		position: absolute;
+		top: 275px;
+		right: 74px;
+		width: 20px;
+		z-index: 10000;
+		display: none;
 }
 
 ul.bullet-lists.intro-list {
@@ -541,15 +548,85 @@ ul.bullet-lists.intro-list li {
 		background: #fff;
 }
 
+ul.bullet-lists.intro-list li.gray-fill {
+	border: solid 1px #9b9b9b;
+	background: #9b9b9b;
+}
+
 ul.bullet-lists.intro-list li.selected {
-	border: solid 1px #ecaa20;
-	background: #ecaa20;
+	border: solid 1px #ecaa20 !important;
+	background: #ecaa20 !important;
 }
 
 ul.bullet-lists.intro-list li a {
     display: block;
     width: 9px;
     height: 9px;
+}
+
+.to-top-scroller {
+    position: absolute;
+    bottom: 60px;
+    right: 60px;
+		display: none;
+		z-index: 1002;
+}
+
+.interactive-timeline-container{
+		z-index: 1002;
+		overflow: hidden;
+		position: relative;
+}
+
+.interactive-timeline {
+    overflow: hidden;
+    padding-top: 30px !important;
+}
+
+.interactive-timeline div {
+    float: left;
+    width: 80px;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+    font-family: 'CircularProBook';
+}
+
+.interactive-timeline div a {
+    color: #9b9b9b;
+    text-decoration: none;
+    display: block;
+}
+
+.interactive-timeline div.selected a {
+    color: #fff;
+}
+
+.interactive-timeline div.selected {
+    background: #ecaa20;
+}
+
+.arrow-up {
+    width: 0 !important;
+    height: 0 !important;
+    border-left: 8px solid transparent !important;
+    border-right: 8px solid transparent !important;
+    border-bottom: 11px solid #ecaa20!important;
+    position: absolute;
+    top: -41px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto !important;
+}
+
+.col-1.directional-arrows {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.col-1.directional-arrows a {
+    cursor: pointer;
+    display: block;
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
