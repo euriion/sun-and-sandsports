@@ -183,5 +183,5 @@
         if (event.fragment.id == "moveToTop") {
           Reveal.slide(Reveal.getIndices()["h"], 0);
         }
-      }
+      });
   });
