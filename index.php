@@ -144,7 +144,7 @@
 									</div>
 								</div>
 							</div>
-							<span class="fragment" id="moveToTop"></span>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/"><img src="images/to-top.png"></a>
@@ -156,9 +156,9 @@
 					<section class="" id="second-slide" data-transition="zoom">
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
 							<div class="">
-								<h2 class="font-45 text-shadow-lighter tradegothic">Prelude - Year 1526:</h2>
+								<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Prelude - Year 1526:</h2>
 								<img class="separator" src="images/banner-separator.png">
-								<h2 class="font-53 alphaheadline text-shadow-lighter">The start <span>of the</span>Football Boot</h2>
+								<h2 class="font-30 circularpro-book text-shadow-lighter">The start of the Football Boot</h2>
 							</div>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 67%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#868686" >
@@ -166,24 +166,36 @@
 								<p class="font-25 margin-top-20">While no images of the shoe survived, </p>
 								<img class="henry-viii" src="images/henry-viii.jpg" alt="Henry VIII">
 								<div>
-									<h2 class="tradegothic font-35 margin-top">
-										“football boots” <span class="circularpro-book">are clearly listed on King Henry the VIII’s</span>‘Great Wardrobe of 1526’
-									</h2>
+									<p class="font-25">
+										<span class="sss-yellow">“football boots”</span><br/>
+										are clearly listed on King Henry the VIII’s <br/>
+										<span class="sss-yellow">‘Great Wardrobe of 1526’</span>
+									</p>
 								</div>
 							</div>
 						</section>
-						<section data-transition="slide" class="color-white slide-3"data-background-image="images/bg-dark-gray-opacity.png" data-background-position="100% 75%" data-background-size="100% 86px" data-background-repeat="no-repeat" data-background="#868686" >
+						<section data-transition="slide" class="color-white slide-3"data-background-image="" data-background-position="100% 75%" data-background-size="100% 86px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="container ">
-								<div class="inner-content text-left ">
-									<p class="font-25 margin-top-20">This document served </p>
-									<p class="tradegothic font-35 margin-top-20">as a medieval wishlist of sorts,</p>
-									<p class="font-25 margin-top-20">and although Henry would later</p>
-									<p class="tradegothic font-48 margin-top-20">try to ban football in 1540,</p>
-									<p class="font-25 margin-top-20 display-flex">his Boots remain <span class=" tradegothic font-48">&nbsp;the earliest example</span></p>
-									<p class="tradegothic font-48 margin-top-20">of the modern day shoes.</p>
-									<div style="position: relative; height: 215px;"><img class="medieval-wishlist" src="images/medieval-wishlist.jpg" alt="Medieval Wishlist"></div>
+								<div class="col-7">
+									<div class="inner-content text-left ">
+										<p class="font-25 margin-top-20 text-center">
+											THIS DOCUMENT SERVED<br/>
+											<span class="sss-yellow">AS A MEDIEVAL WISHLIST OF SORTS</span>,<br/>
+											AND ALTHOUGH HENRY WOULD LATER<br/>
+											<span class="sss-yellow">TRY TO BAN FOOTBALL IN 1540</span>,<br/>
+											HIS BOOTS REMAIN<br/>
+											<span class="sss-yellow">THE EARLIEST EXAMPLE<br/>
+											OF THE MODERN DAY SHOES</span>.<br/>
+										</p>
+									</div>
+								</div>
+								<div class="col-5">
+									<div class="medieval-wishlist-div">
+										<img class="medieval-wishlist" src="images/medieval-wishlist.jpg" alt="Medieval Wishlist">
+									</div>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/1"><img src="images/to-top.png"></a>
@@ -194,36 +206,47 @@
 					*/ ?>
 					<section class="" id="third-slide" data-transition="zoom">
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 1800’s and early 1900’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1800’s and early 1900’s:</h2>
 							<img class="separator" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light">‘A slow Evolution’</h2>
+							<h2 class="font-30 circularpro-book text-shadow-lighter">‘A slow Evolution’</h2>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 67%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
-								<p class="tradegothic font-42 margin-top-20 text-shadow-lighter">As football evolved </p>
-								<p class="circularpro-book font-30 it-became-clear">it became clear that</p>
-								<p class="tradegothic font-62 text-shadow">regulation was required </p>
-								<p class="circularpro-book font-30 for-footwear">for footware.</p>
+								<p class="font-25 margin-top-20 text-shadow-lighter">
+									As football evolved <br/>
+								  it became clear that <br/>
+									<span class="sss-yellow">regulation was required</span> <br/>
+									for footware.
+								</p>
 							</div>
 						</section>
 						<section data-transition="slide" class="color-gray slide-3" data-background="#00000" >
 							<div class="inner-content ">
-								<p class="font-17 line-1-215">One of the first rules introduced required </p>
-								<h2 class="tradegothic font-45">the metal studs <span class="circularpro-book font-weight-300 font-15 line-1-215">of the boots to be</span> rounded.</h2>
+								<p class="font-25 line-1-215">One of the first rules introduced required <br/>
+								<span class="sss-yellow">the metal studs</span> of the boots to be <span class="sss-yellow">rounded.</span>
+								</p>
 								<img class="" src="images/boots.png" alt="boots">
-								<p class="tradegothic font-26 line-1-125">This helped prevent injuries and is one of the first evolutions in design. </p>
+								<p class="font-25 line-1-215">
+									This helped <span class="sss-yellow">prevent injuries</span> and is one <br/>
+									of the first evolutions in design.
+								</p>
 							</div>
 						</section>
 						<section data-transition="slide" class="color-white slide-4" data-background-image="" data-background-position="100% 50%" data-background-size="100% 242px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
-								<p class="tradegothic font-20">These early boots can be seen</p>
-								<p class="tradegothic font-20">in the <span class="font-32">1934 World Cup quarter match</span> between <span class="font-32">Italy and Spain.</span></p>
+								<p class="font-25 line-1-215">These early boots can be seen</p>
+								<p class="font-25 line-1-215">in the <span class="sss-yellow">1934 World Cup quarter match</span> between <span class="sss-yellow">Italy and Spain.</span></p>
 								<div class="bg-container"><iframe width="405" height="228" src="http://www.youtube.com/embed/Vastjd5PFMw" frameborder="0" allowfullscreen></iframe></div>
-								<p class="font-15 line-1-215">The match is notorious for Italy’s aggressive play and some questionable officiating. In the end Italy<br /> would bully Spain out of contention after Spannish goals were disallowed in both matches.</p>
+								<p class="font-18 line-1-215">
+									The match is notorious for Italy’s aggressive play and some questionable<br/>
+									officiating. In the end Italy would bully Spain out of contention after<br />
+									Spannish goals were disallowed in both matches.
+								</p>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/2"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -231,23 +254,23 @@
 					*/ ?>
 					<section class="" id="fourth-slide" data-transition="zoom">
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 1940’s and 1950’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1940’s and 1950’s:</h2>
 							<img class="separator separator-235" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light">‘the huge football leap’</h2>
+							<h2 class="font-30 text-shadow-light">‘the huge football leap’</h2>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 67%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#fff" >
 							<div class="inner-content text-left ">
 								<div class="container">
 									<div class="margin-div">
-										<p class="font-25 margin-top-20 display-flex color-gray"><span class="padding-top-15">After the</span><span class=" tradegothic font-48 text-shadow-solid">Second World War</span></p>
-										<p class="font-25 margin-top-20 color-gray">the design of the football boot </p>
-										<p class="tradegothic font-48 margin-top-20 color-gray text-shadow-solid">took a huge leap forward.</p>
+										<p class="font-25 margin-top-20 display-flex color-gray">After the&nbsp;<span class="sss-yellow">Second World War</span></p>
+										<p class="font-25 margin-top-20 color-gray">the design of the football boot</p>
+										<p class="font-25 margin-top-20 display-flex color-gray">took a huge&nbsp;<span class="sss-yellow">leap forward.</span></p>
 									</div>
 								</div>
 								<div class="bg-container">
 									<div class="container">
 										<p class="font-25 margin-top-5">For the first time since studded boots,</p>
-										<p class="font-25 margin-top-20 display-flex ">the shoes started to <span class=" tradegothic font-48 text-shadow-solid">&nbsp;impact the game.</span></p>
+										<p class="font-25 margin-top-20 display-flex ">the shoes started to <span class="sss-yellow text-shadow-new">&nbsp;impact the game.</span></p>
 										<img class="football-boots" src="images/football-boots.jpg" alt="Football boots">
 									</div>
 								</div>
@@ -258,8 +281,8 @@
 								<div class="bg-container">
 									<div class="container">
 										<div class="text-right">
-											<p class="circularpro-book font-18">These new boots were on display</p>
-											<p class="tradegothic font-40 text-shadow">across Europe<br/>throughout the 1940s. </p>
+											<p class="circularpro-book font-18 animated slideInLeft" data-effect="slideInLeft">These new boots were on display</p>
+											<p class="circularpro-book font-18 text-shadow-new animated slideInLeft sss-yellow" data-effect="slideInLeft">across Europe throughout the 1940s. </p>
 										</div>
 										<iframe width="341" height="192" src="http://www.youtube.com/embed/S0-3_APWA_Y" frameborder="0" type="text/html" allowfullscreen></iframe>
 										<div class="text-left">
@@ -269,13 +292,16 @@
 													claimed four successive titles <br />
 													wearing this style of shoe <br />
 													and they are still responsible <br />
-													for one of the biggest <br />
+													for one of the<span class="sss-yellow">&nbsp;biggest</span> <br />
 													upsets in football history; <br />
 												</p>
-												<p class="tradegothic font-40 line-0-965 text-shadow">
-													scoring 6 goals<br />
-													in just 19 minutes<br />
-													against Rome.
+												<p class="circularpro-book font-18 line-1-275 text-shadow-new">
+													<span class="sss-yellow ">
+														scoring 6 goals<br />
+														in just 19 minutes<br />
+														</span>
+														against Rome.
+
 												</p>
 											</div>
 										</div>
@@ -286,15 +312,15 @@
 						<section data-transition="slide" class="color-white slide-4" data-background-image="" data-background-position="100% 56%" data-background-size="100% 202px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
 								<div class="upper-write-up">
-									<p class="circularpro-book font-16">In the early 1950's</p>
-									<p class="tradegothic font-35 text-shadow">Puma<span class="font-26 text-shadow-none">and</span>adidas</p>
-									<p class="circularpro-book font-16">introduced their</p>
-									<h3 class="tradegothic font-42 text-shadow">screw-in studs shoes</h3>
+									<p class="circularpro-book font-25 line-1-275">In the early 1950's</p>
+									<p class="circularpro-book font-25 line-1-275"><span class="sss-yellow">Puma&nbsp;</span>and<span class="sss-yellow">&nbsp;adidas</span></p>
+									<p class="circularpro-book font-25 line-1-275">introduced their</p>
+									<p class="circularpro-book font-25 line-1-275"><span class="sss-yellow">screw-in studs shoes</span></p>
 								</div>
 								<div class="bg-container">
 									<img class="puma-adidas" src="images/slide-4-3-boots.png" alt="Puma & Adidas">
 								</div>
-								<p class="tradegothic font-26 line-1-275">
+								<p class="circularpro-book font-25 line-1-275">
 									allowing players to adjust their boots based on changing weather conditions.
 								</p>
 							</div>
@@ -304,17 +330,21 @@
 								<div class="bg-container">
 									<div class="container">
 										<div class="text-holder">
-											<p class="circularpro-book font-15 text-left ">The <span class="tradegothic font-32">Adidas Agentinia</span>, worn by <span class="tradegothic font-32">Fritz Walter,</span></p>
-											<p class="circularpro-book font-15 text-left">used this new technology and gave the <span class="tradegothic font-32">Mannschaft</span></p>
-											<p class="circularpro-book font-15 text-left">a noticeable advantage during a rain-lashed <span class="tradegothic font-32">World Cup</span> in <span class="tradegothic font-32">1954.</span></p>
+											<p class="circularpro-book font-25 text-center text-shadow-new">
+												The Adidas Agentinia, worn by<span class="sss-yellow">&nbsp;Fritz Walter</span>, <br/>
+												used this<span class="sss-yellow">&nbsp;new technology&nbsp;</span>and gave the Mannschaft <br/>
+												a<span class="sss-yellow">&nbsp;noticeable advantage&nbsp;</span>during a rain-lashed <br/>
+											<span class="sss-yellow">	World Cup in 1954.</span>
+											</p>
 										</div>
 										<iframe width="434" height="245" src="http://www.youtube.com/embed/qPfhoox5HdI" frameborder="0" allowfullscreen></iframe>
 									</div>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/3"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -323,27 +353,29 @@
 					<section class="" id="fifth-slide" data-transition="zoom">
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 1960’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1960’s:</h2>
 							<img class="separator" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light line-0-915">‘Internation competition<br />drives innovation’</h2>
+							<h2 class="font-30 circularpro-book text-shadow-light line-0-915">‘Internation competition drives innovation’</h2>
 						</section>
 						<section data-transition="slide" class="slide-2" data-background-image="" data-background-position="100% 72.5%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#ffffff" >
 							<div class="inner-content ">
 								<div class="container">
 									<img src="images/slide-5-2-shoes.png" alt="shoes">
 									<div class="write-up-holder">
-										<p class="circularpro-book font-20 margin-top-20 color-gray">In the <span class="tradegothic font-39 text-shadow">1960<span class="lowercase">s</span></span> football boot technology</p>
-										<p class="circularpro-book font-20 margin-top-20 color-gray"><span class="margin-top-7">continued to</span> <span class="tradegothic font-39 text-shadow">evolve rapidly,</span></p>
-										<p class="circularpro-book font-20 margin-top-20 color-gray display-flex"><span class="margin-top-7">manufacturers</span> <span class="tradegothic font-39 text-shadow">moved away</span> <span class="margin-top-7">  from the high cut boots</span></p>
-										<p class="circularpro-book font-20 margin-top-20 color-gray display-flex"><span class="margin-top-7">of the past,</span> <span class="tradegothic font-39 text-shadow">opting</span><span class="margin-top-7"> for new, lighter low cut designs.</span></p>
+										<p class="circularpro-book font-25 margin-top-20 color-gray-313131">
+											IN THE<span class="sss-yellow">&nbsp;1960s&nbsp;</span>FOOTBALL BOOT TECHNOLOGY CONTINUED TO<span class="sss-yellow">&nbsp;EVOLVE RAPIDLY</span>,<br/>
+											MANUFACTURERS<span class="sss-yellow">&nbsp;MOVED AWAY&nbsp;</span>FROM THE HIGH CUT BOOTS OF THE PAST,<br/>
+											<span class="sss-yellow">OPTING&nbsp;</span>FOR NEW, LIGHTER LOW CUT DESIGNS.
+										</p>
 									</div>
 								</div>
 								<div class="bg-container">
 									<div class="container">
 										<div class="lower-content">
-											<p class="circularpro-book font-27 margin-top-20 color-white display-flex">The boots enabled players</p>
-											<p class="circularpro-book font-27 margin-top-20 color-white display-flex"><span class="margin-top-11">to move</span> <span class="tradegothic font-52 text-shadow">faster</span> <span class="margin-top-11">and</span> </p>
-											<p class="circularpro-book font-27 margin-top-20 color-white display-flex"><span class="margin-top-7">change direction</span> <span class="tradegothic font-52 text-shadow">quicker.</span></p>
+											<p class="circularpro-book font-25 margin-top-20 color-white">
+												THE BOOTS ENABLED PLAYERS TO MOVE<span class="sss-yellow">&nbsp;FASTER&nbsp;</span>AND<br/>
+												CHANGE DIRECTION<span class="sss-yellow">&nbsp;QUICKER</span>.
+											</p>
 										</div>
 									</div>
 								</div>
@@ -356,10 +388,12 @@
 										<div class="col-container text-shadow">
 											<div class="col-6">
 												<img src="images/pele.png" alt="Pele">
-												<p class="circularpro-book font-20 margin-top-20 text-shadow">In 1962 <span class="tradegothic font-40">Pelé lead Brazil</span> to their</p>
-												<p class="tradegothic font-40 margin-top-20 text-shadow">second world cup title</p>
-												<p class="circularpro-book font-20 margin-top-20 text-shadow">in as many tournaments wearing</p>
-												<p class="tradegothic font-40 margin-top-20 text-shadow">PUMA Boots.</p>
+												<p class="circularpro-book font-18 margin-top-20 text-shadow">
+													IN 1962<span class="sss-yellow">&nbsp;PELÉ LEAD BRAZIL&nbsp;</span>TO THEIR <br/>
+													<span class="sss-yellow">SECOND WORLD CUP TITLE</span><br/>
+													IN AS MANY TOURNAMENTS WEARING <br/>
+													<span class="sss-yellow">PUMA BOOTS</span>. <br/>
+												</p>
 											</div>
 											<div class="col-6">
 												<iframe width="434" height="245" src="http://www.youtube.com/embed/UdKs_eQvalc" frameborder="0" allowfullscreen></iframe>
@@ -373,27 +407,34 @@
 							<div class="inner-content ">
 								<div class="container">
 									<div class="upper-write-up">
-										<p class="circularpro-book font-16 text-left">In February 1965,<span class="tradegothic font-34 text-shadow">Uwe Seeler</span></p>
-										<p class="circularpro-book font-16 text-left display-flex"><span class="margin-top-7">tore his</span><span class="tradegothic font-34 text-shadow">achilles tendon,</span></p>
-										<p class="circularpro-book font-16 text-left">an injury that would usually be</p>
-										<p class="tradegothic font-40 text-shadow text-left">career ending.</p>
+										<p class="circularpro-book font-25 line-1-215 text-center">
+											IN FEBRUARY 1965, <span class="sss-yellow">UWE SEELER</span> TORE HIS <span class="sss-yellow">ACHILLES TENDON</span>,<br/>
+											AN INJURY THAT WOULD USUALLY BE <span class="sss-yellow">CAREER ENDING</span>.
+										</p>
 									</div>
 								</div>
 								<div class="bg-container"><img class="margin-bottom-10" src="images/slide-5-4-shoes.jpg" alt="shoe"></div>
-								<p class="tradegothic font-26 line-1-215">To help, Adi Dassler designed the Adidas Achilles,</br>a special orthopedic shoe which enabled seeler to play again.</p>
+								<p class="circularpro-book font-25 line-1-215">
+									To help, <span class="sss-yellow">Adi Dassler</span> designed the <span class="sss-yellow">Adidas Achilles</span>, <br/>
+									a <span class="sss-yellow">special orthopedic shoe</span> which enabled seeler to play again.
+								</p>
 							</div>
 						</section>
 						<section data-transition="slide" data-state="bg-graytowhite" class="color-white slide-5" data-background-image="" data-background-position="100% 73%" data-background-size="100% 89px" data-background-repeat="repeat-x" >
 							<div class="inner-content ">
+								<iframe width="445" height="251" src="http://www.youtube.com/embed/YsQtuJXnxOY" frameborder="0" allowfullscreen></iframe>
 								<div class="bg-container">
-									<iframe width="445" height="251" src="http://www.youtube.com/embed/YsQtuJXnxOY" frameborder="0" allowfullscreen></iframe>
-									<p class="circularpro-book font-15 text-shadow first-child">Wearing the <span class="tradegothic font-32">Achilles,</span> Uwe Seeler scored the <span class="tradegothic font-32">deciding goal</span></p>
-									<p class="circularpro-book font-16 text-shadow">at the <span class="tradegothic font-32">world cup qualifying match</span> against sweden on <span class="tradegothic font-32">26 September.</span></p>
+									<p class="circularpro-book font-25 text-shadow-new">
+										Wearing the <span class="sss-yellow">Achilles</span>, Uwe Seeler scored the <span class="sss-yellow">deciding goal</span><br/>
+										at the <span class="sss-yellow">world cup qualifying match</span><br/>
+										against Sweden on <span class="sss-yellow">26 September</span>.
+									</p>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/4"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -467,9 +508,10 @@
 									<p class="circularpro-book font-15 text-shadow">and partnering with several <span class="tradegothic font-32">North American Soccer League associations.</span></p>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/5"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -557,9 +599,10 @@
 									</div>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/6"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -626,9 +669,10 @@
 								</div>
 								<iframe width="443" height="246" src="https://www.youtube.com/embed/_hiH6w4LFLo" frameborder="0" allowfullscreen></iframe>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/7"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -708,9 +752,10 @@
 									</p>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/8"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 					<?php /**
@@ -825,9 +870,10 @@
 									</div>
 								</div>
 							</div>
+							<span class="fragment moveToTop"></span>
 						</section>
 						<div class="to-top-scroller">
-							<a href="#/"><img src="images/to-top.png"></a>
+							<a href="#/9"><img src="images/to-top.png"></a>
 						</div>
 					</section>
 				</div>
@@ -868,19 +914,80 @@
 					</ul>
 				</div>
 
+				<div class="bullet-lists-container" id="blc-4">
+					<ul class='bullet-lists intro-list'>
+						<li id="slide-4-0" class='slider-bullets'><a href="#/4"></a></li>
+						<li id="slide-4-1" class='slider-bullets'><a href="#/4/1"></a></li>
+						<li id="slide-4-2" class='slider-bullets'><a href="#/4/2"></a></li>
+						<li id="slide-4-3" class='slider-bullets'><a href="#/4/3"></a></li>
+						<li id="slide-4-4" class='slider-bullets'><a href="#/4/4"></a></li>
+					</ul>
+				</div>
+
+				<div class="bullet-lists-container" id="blc-5">
+					<ul class='bullet-lists intro-list'>
+						<li id="slide-5-0" class='slider-bullets'><a href="#/5"></a></li>
+						<li id="slide-5-1" class='slider-bullets'><a href="#/5/1"></a></li>
+						<li id="slide-5-2" class='slider-bullets'><a href="#/5/2"></a></li>
+						<li id="slide-5-3" class='slider-bullets'><a href="#/5/3"></a></li>
+						<li id="slide-5-4" class='slider-bullets'><a href="#/5/4"></a></li>
+					</ul>
+				</div>
+
+				<div class="bullet-lists-container" id="blc-6">
+					<ul class='bullet-lists intro-list'>
+						<li id="slide-6-0" class='slider-bullets'><a href="#/6"></a></li>
+						<li id="slide-6-1" class='slider-bullets'><a href="#/6/1"></a></li>
+						<li id="slide-6-2" class='slider-bullets'><a href="#/6/2"></a></li>
+						<li id="slide-6-3" class='slider-bullets'><a href="#/6/3"></a></li>
+						<li id="slide-6-4" class='slider-bullets'><a href="#/6/4"></a></li>
+					</ul>
+				</div>
+
+				<div class="bullet-lists-container" id="blc-7">
+					<ul class='bullet-lists intro-list'>
+						<li id="slide-7-0" class='slider-bullets'><a href="#/7"></a></li>
+						<li id="slide-7-1" class='slider-bullets'><a href="#/7/1"></a></li>
+						<li id="slide-7-2" class='slider-bullets'><a href="#/7/2"></a></li>
+						<li id="slide-7-3" class='slider-bullets'><a href="#/7/3"></a></li>
+						<li id="slide-7-4" class='slider-bullets'><a href="#/7/4"></a></li>
+					</ul>
+				</div>
+
+				<div class="bullet-lists-container" id="blc-8">
+					<ul class='bullet-lists intro-list'>
+						<li id="slide-8-0" class='slider-bullets'><a href="#/8"></a></li>
+						<li id="slide-8-1" class='slider-bullets'><a href="#/8/1"></a></li>
+						<li id="slide-8-2" class='slider-bullets'><a href="#/8/2"></a></li>
+						<li id="slide-8-3" class='slider-bullets'><a href="#/8/3"></a></li>
+						<li id="slide-8-4" class='slider-bullets'><a href="#/8/4"></a></li>
+					</ul>
+				</div>
+
+				<div class="bullet-lists-container" id="blc-9">
+					<ul class='bullet-lists intro-list'>
+						<li id="slide-9-0" class='slider-bullets'><a href="#/9"></a></li>
+						<li id="slide-9-1" class='slider-bullets'><a href="#/9/1"></a></li>
+						<li id="slide-9-2" class='slider-bullets'><a href="#/9/2"></a></li>
+						<li id="slide-9-3" class='slider-bullets'><a href="#/9/3"></a></li>
+						<li id="slide-9-4" class='slider-bullets'><a href="#/9/4"></a></li>
+						<li id="slide-9-5" class='slider-bullets'><a href="#/9/5"></a></li>
+					</ul>
+				</div>
+
 			</div>
 			<div class="timeline-container">
 				<div class="container">
-				    <div class='timeline-title'></div>
-				    <div class='timeline-title'><img src="images/years/1500.png" alt="1500"></div>
-				    <div class='timeline-title'><img src="images/years/1800_1990.png" alt="1800_1990"></div>
-				    <div class='timeline-title'><img src="images/years/1940_1950.png" alt="1940_1950"></div>
-				    <div class='timeline-title'><img src="images/years/1960.png" alt="1960"></div>
-				    <div class='timeline-title'><img src="images/years/1970.png" alt="1970"></div>
-				    <div class='timeline-title'><img src="images/years/1980.png" alt="1980"></div>
-				    <div class='timeline-title'><img src="images/years/1990.png" alt="1990"></div>
-				    <div class='timeline-title'><img src="images/years/2000.png" alt="2000"></div>
-				    <div class='timeline-title'><img src="images/years/2010_future.png" alt="2010_future"></div>
+				    <div class='timeline-title'>&nbsp;</div>
+				    <div class='timeline-title tt-1'><img src="images/years/1500.png" alt="1500"></div>
+				    <div class='timeline-title tt-2'><img src="images/years/1800_1990.png" alt="1800_1990"></div>
+				    <div class='timeline-title tt-3'><img src="images/years/1940_1950.png" alt="1940_1950"></div>
+				    <div class='timeline-title tt-4'><img src="images/years/1960.png" alt="1960"></div>
+				    <div class='timeline-title tt-5'><img src="images/years/1970.png" alt="1970"></div>
+				    <div class='timeline-title tt-6'><img src="images/years/1980.png" alt="1980"></div>
+				    <div class='timeline-title tt-7'><img src="images/years/1990.png" alt="1990"></div>
+				    <div class='timeline-title tt-8'><img src="images/years/2000.png" alt="2000"></div>
+				    <div class='timeline-title tt-9'><img src="images/years/2010_future.png" alt="2010_future"></div>
 			    </div>
 			</div>
 		</div>
