@@ -158,7 +158,7 @@
 							<div class="">
 								<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Prelude - Year 1526:</h2>
 								<img class="separator" src="images/banner-separator.png">
-								<h2 class="font-30 circularpro-book text-shadow-lighter">The start of the Football Boot</h2>
+								<p class="font-30 circularpro-book text-shadow-light line-0-915">The start of the Football Boot</p>
 							</div>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 67%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#868686" >
@@ -208,7 +208,7 @@
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
 							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1800’s and early 1900’s:</h2>
 							<img class="separator" src="images/banner-separator.png">
-							<h2 class="font-30 circularpro-book text-shadow-lighter">‘A slow Evolution’</h2>
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">‘A slow Evolution’</p>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 67%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
@@ -256,7 +256,7 @@
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
 							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1940’s and 1950’s:</h2>
 							<img class="separator separator-235" src="images/banner-separator.png">
-							<h2 class="font-30 text-shadow-light">‘the huge football leap’</h2>
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">‘the huge football leap’</p>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 67%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#fff" >
 							<div class="inner-content text-left ">
@@ -354,8 +354,8 @@
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
 							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1960’s:</h2>
-							<img class="separator" src="images/banner-separator.png">
-							<h2 class="font-30 circularpro-book text-shadow-light line-0-915">‘Internation competition drives innovation’</h2>
+							<img class="separator separator-235" src="images/banner-separator.png">
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">‘Internation competition drives innovation’</p>
 						</section>
 						<section data-transition="slide" class="slide-2" data-background-image="" data-background-position="100% 72.5%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#ffffff" >
 							<div class="inner-content ">
@@ -443,18 +443,23 @@
 					<section class="" id="sixth-slide" data-transition="zoom">
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 1970’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1970’s:</h2>
 							<img class="separator separator-235" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light">The Era of Sponsorship<br />Begins</h2>
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">The Era of Sponsorship Begins</p>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 56%" data-background-size="100% 292px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
-								<p class="circularpro-book font-16"><span class="tradegothic font-39 text-shadow">1970s</span> <span class="margin-top-7 font-20 circularpro-book vertical-align-super">ushered in a new age of</span> <span class="tradegothic font-39 text-shadow">world of soccer.</span></p>
+								<p class="circularpro-book font-25">
+									<span class="sss-yellow lowercase">1970s</span> USHERED IN A NEW AGE OF <span class="sss-yellow">WORLD OF SOCCER</span>.
+								</p>
 								<div class="bg-container">
 									<img src="images/pan.png" alt="Puma Adidas Nike">
-									<p class="circularpro-book font-27 left-neg-200">for the <span class="tradegothic font-52 text-shadow">first time ever,</span></p>
-									<p class="circularpro-book font-27 line-0-7 left-30"><span class="vertical-align-super">brands began to</span> <span class="tradegothic font-52 text-shadow">sponsor</span><span class="vertical-align-super">individual atheletes.</span></p>
-									<p class="tradegothic font-28 line-1-8">Players were paid by manufacturers to sport their soccer boots while playing.</p>
+									<p class="circularpro-book font-25 text-center">
+										FOR THE <span class="sss-yellow">FIRST TIME EVER</span>,<br/>
+										BRANDS BEGAN TO <span class="sss-yellow">SPONSOR</span> INDIVIDUAL ATHELETES.<br/>
+										PLAYERS WERE PAID BY MANUFACTURERS TO SPORT THEIR <br/>
+										SOCCER BOOTS WHILE PLAYING.
+									</p>
 								</div>
 							</div>
 						</section>
@@ -466,11 +471,14 @@
 											<iframe width="489" height="276" src="http://www.youtube.com/embed/JVqK4_R17Fo" frameborder="0" allowfullscreen></iframe>
 										</div>
 										<div class="col-6 last-child">
-											<p class="tradegothic font-40 text-shadow">Adidas<span class="circularpro-book font-18 filler-margin text-shadow-none vertical-align-middle">introduces the </span>Cosmos</p>
-											<p class="circularpro-book font-21">in 1970. The shoe was one of the</p>
-											<p class="tradegothic font-40 text-shadow">first designed <span class="circularpro-book font-21 vertical-align-middle">to match</span></p>
-											<p class="circularpro-book font-21 line-1-215">a unique atheletes foot,<br/>that foot belonged to </p>
-											<p class="tradegothic font-42 text-shadow">Franz Beckenbauer.</p>
+											<p class="circularpro-book font-25 text-center line-1-215">
+												<span class="sss-yellow">ADIDAS</span> INTRODUCES THE <span class="sss-yellow">COSMOS</span><br/>
+												IN 1970. THE SHOE WAS ONE OF THE <br/>
+												<span class="sss-yellow">FIRST DESIGNED</span> TO MATCH <br/>
+												A UNIQUE ATHELETES FOOT, <br/>
+												THAT FOOT BELONGED TO <br/>
+												<span class="sss-yellow">FRANZ BECKENBAUER</span>.
+											</p>
 										</div>
 									</div>
 								</div>
@@ -480,20 +488,23 @@
 							<div class="container">
 								<div class="inner-content ">
 									<div class="col-container color-white">
-										<div class="col-6">
-											<p class="circularpro-book font-30">Pelé</p>
-											<p class="tradegothic font-28 text-shadow">– again “Player of the Tournament” – </p>
-											<p class="circularpro-book font-15"><span class="vertical-align-super">wears</span> <span class="tradegothic font-40 text-shadow">PUMA KING boots</span></p>
-											<p class="circularpro-book font-15 line-1-215">and helps Brazil to win his and his country’s third<br /> World Cup title by beating Italy in the Mexico finals. </p>
+										<div class="col-7">
+											<p class="circularpro-book font-25 line-1-215">
+												Pelé  <br/>
+												– again <span class="sss-yellow">“Player of the Tournament”</span> – <br/>
+												wears <span class="sss-yellow">PUMA KING boots</span> <br/>
+												and helps Brazil to win his and his country’s third <br/>
+												World Cup title by beating Italy in the Mexico finals.
+											</p>
 										</div>
-										<div class="col-6">
+										<div class="col-5">
 											<iframe width="495" height="277" src="http://www.youtube.com/embed/k85liXbZiao" frameborder="0" allowfullscreen></iframe>
 										</div>
 									</div>
 								</div>
 							</div>
 						</section>
-						<section data-transition="slide"  class="color-white slide-5" <?php if(!isMobile()) { ?>data-state="bg-graywhitelight" data-background-image="images/bg-gray-black-330.jpg" data-background-position="100% 50%" data-background-size="100% 330px" data-background-repeat="no-repeat"<?php } ?> >
+						<section data-transition="slide"  class="color-white slide-5">
 							<div class="container">
 								<div class="inner-content ">
 									<div class="col-container color-white text-shadow">
@@ -504,8 +515,10 @@
 											<iframe width="431" height="241" src="http://www.youtube.com/embed/jQRIxEQAkX8" frameborder="0" allowfullscreen></iframe>
 										</div>
 									</div>
-									<p class="tradegothic font-36 text-shadow line-0-87">Nike <span class="circularpro-book font-15">enters the football market developing their</span> first football boots</p>
-									<p class="circularpro-book font-15 text-shadow">and partnering with several <span class="tradegothic font-32">North American Soccer League associations.</span></p>
+									<p class="circularpro-book font-18 text-shadow-new line-1">
+										<span class="sss-yellow">Nike</span> enters the football market developing their <span class="sss-yellow">first football boots</span> and partnering with <br/>
+										several <span class="sss-yellow">North American Soccer League associations</span>.
+									</p>
 								</div>
 							</div>
 							<span class="fragment moveToTop"></span>
@@ -520,19 +533,23 @@
 					<section class="" id="seventh-slide" data-transition="zoom">
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 1980’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1980’s:</h2>
 							<img class="separator separator-235" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light">greater power and control </h2>
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">greater power and control </p>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 45%" data-background-size="100% 330px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
-								<p class="tradegothic font-39 text-shadow first-child">80’s <span class="circularpro-book font-20 vertical-align-middle text-shadow-none">brought more technologies into the realm of</span> boot design.</p>
 								<div class="bg-container">
 									<div class="container">
-										<p class="circularpro-book font-21 second-child">More thought was given on <span class="tradegothic font-40 text-shadow">studs placement,</span></p>
-										<p class="tradegothic font-40 text-shadow line-0-7 third-child display-flex"> <span class="circularpro-book font-21 text-shadow-none margin-top-7 display-flex">improving</span> <span class="filler-margin">traction</span> <span class="circularpro-book font-21 text-shadow-none margin-top-7 display-flex">between the boot and the ground.</span></p>
+										<p class="font-25 circularpro-book line-1-215">
+											<span class="sss-yellow">80’s</span> brought more technologies into the realm of <span class="sss-yellow">boot <br/>
+											design</span>. More thought was given on <span class="sss-yellow">Studs Placement</span>, <br/>
+ 											improving <span class="sss-yellow">traction</span> between the boot and the ground.
+										</p>
 										<img src="images/80s-boots-design.png" alt="80s Boots Design">
-										<p class="tradegothic font-22 line-1-215">Manufacturers began to place power & swerve zones on soccer shoes,<br />“Sweet Spots” that when struck properly would provide greater power and control on a shot. </p>
+										<p class="circularpro-book font-18 line-1-215">
+											Manufacturers began to place power & swerve zones on soccer shoes,
+											“Sweet Spots” that when struck properly would provide greater power and control on a shot. </p>
 									</div>
 								</div>
 							</div>
@@ -540,10 +557,13 @@
 						<section data-transition="slide" class="color-white slide-3" data-background-image="images/bg-dark-gray-242.png" data-background-position="100% 50%" data-background-size="100% 238px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="container">
 								<div class="inner-content ">
-									<div class="col-container color-white text-shadow">
+									<div class="col-container color-white">
 										<div class="col-6">
-											<p class="tradegothic font-40 text-shadow line-0-7 third-child display-flex">Aston Villa <span class="margin-top-7 circularpro-book font-18 vertical-align-middle text-shadow-none">clinches Europe’s top club prize</span></p>
-											<p class="circularpro-book font-18 second-child">with the entire team wearing <span class="tradegothic font-42 text-shadow">Nike Boots. </span></p>
+											<p class="circularpro-book font-25 line-1-215 text-left">
+												<span class="sss-yellow">Aston Villa</span> clinches Europe’s <br/>
+												top club prize with the entire <br/>
+												team wearing <span class="sss-yellow">Nike Boots</span>.
+											</p>
 										</div>
 										<div class="col-6">
 											<iframe width="421" height="231" src="http://www.youtube.com/embed/m6xSbPjybok" frameborder="0" allowfullscreen></iframe>
@@ -560,12 +580,14 @@
 											<iframe width="473" height="266" src="http://www.youtube.com/embed/-ZrdMQKo4Zw" frameborder="0" allowfullscreen></iframe>
 										</div>
 										<div class="col-6 last-child">
-											<p class="circularpro-book font-21">Argentinean football player </p>
-											<p class="tradegothic font-35">Diego Maradona </p>
-											<p class="circularpro-book font-15">leads his country to the World Cup title,</p>
-											<p class="circularpro-book font-16 display-flex"><span class="margin-top-11">wearing</span> <span class="tradegothic font-40">PUMA football boots.</span></p>
-											<p class="circularpro-book font-15">He is voted</p>
-											<p class="tradegothic font-25">“Player of the Tournament”.</p>
+											<p class="circularpro-book font-25 line-1-215">
+												ARGENTINEAN FOOTBALL PLAYER <br/>
+												<span class="sss-yellow">DIEGO MARADONA</span> LEADS HIS <br/>
+												COUNTRY TO THE WORLD CUP <br/>
+												TITLE, WEARING <span class="sss-yellow">PUMA FOOTBALL <br/>
+												BOOTS</span>. HE IS VOTED <br/>
+												<span class="sss-yellow">“PLAYER OF THE TOURNAMENT”</span>. <br/>
+											</p>
 										</div>
 									</div>
 								</div>
@@ -584,9 +606,11 @@
 											</div>
 										</div>
 										<div class="copa-mundial">
-											<p class="circularpro-book font-15 text-shadow">the <span class="tradegothic font-35">Copa Mundial,</span></p>
-											<p class="circularpro-book font-15 text-shadow">Adidas <span class="tradegothic font-31">most successful</span> football boot, </p>
-											<p class="circularpro-book font-15 text-shadow">is introduced for the <span class="tradegothic font-31">1982 world cup</span> in Spain.</p>
+											<p class="circularpro-book font-25 text-shadow-new line-1-215">
+												the <span class="sss-yellow">Copa Mundial</span>, <br/>
+												Adidas <span class="sss-yellow">most successful</span> football boot,<br/>
+												is introduced for the <span class="sss-yellow">1982 world cup</span> in Spain.
+											</p>
 										</div>
 										<div class="col-container color-white">
 											<div class="col-6">
@@ -611,17 +635,22 @@
 					<section class="" id="eighth-slide" data-transition="zoom">
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 1990’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 1990’s:</h2>
 							<img class="separator separator-235" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light">‘soles and studs’</h2>
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">‘soles and studs’</p>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 45%" data-background-size="100% 330px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
 								<div class="container">
-									<p class="circularpro-book font-16">This period saw a difference in not only <span class="tradegothic font-35 text-shadow">colour, size, and shape,</span></p>
-									<p class="circularpro-book font-20 margin-bottom-5 display-flex "><span class="vertical-align-super margin-top-4">but also in </span> <span class="tradegothic font-39 text-shadow filler-margin">the studs that were used</span> <span class="vertical-align-super margin-top-4">on the under side of the boot.</span></p>
+									<p class="circularpro-book font-25 line-1-215">
+										THIS PERIOD SAW A DIFFERENCE IN NOT ONLY <span class="sss-yellow">COLOUR</span>, <span class="sss-yellow">SIZE</span>, AND <span class="sss-yellow">SHAPE</span>, <br/>
+										BUT ALSO IN <span class="sss-yellow">THE STUDS THAT WERE USED</span> ON THE UNDER SIDE OF THE BOOT.
+									</p>
 									<img src="images/boots-5-images.png" alt="Boots">
-									<p class="tradegothic font-22 line-1-215 margin-top-15">The sole of the shoes also became a key focus, designed to be more flexible,<br />improving player balance and allowing for more natural movement within the boot.  </p>
+									<p class="circularpro-book font-18 line-1-215 margin-top-15">
+										THE SOLE OF THE SHOES ALSO BECAME A KEY FOCUS, DESIGNED TO BE MORE FLEXIBLE,<br/>
+										IMPROVING PLAYER BALANCE AND ALLOWING FOR MORE NATURAL MOVEMENT WITHIN THE BOOT.
+									</p>
 								</div>
 							</div>
 						</section>
@@ -629,8 +658,10 @@
 							<div class="inner-content ">
 								<div class="bg-container">
 									<div class="container">
-										<p class="tradegothic font-48 text-shadow line-0-7 third-child ">puma <span class="margin-top-7 circularpro-book font-25 vertical-align-middle text-shadow-none">sponsored football team, </span> Werder Bremen,</p>
-										<p class="circularpro-book font-25">win the 1992 EUROPEAN CUP WINNERS' CUP FINAL in Lisbon.</p>
+										<p class="circularpro-book font-25 line-1-215">
+											<span class="sss-yellow">PUMA</span> SPONSORED FOOTBALL TEAM, <span class="sss-yellow">WERDER BREMEN</span>, <br/>
+											WIN THE <span class="sss-yellow">‘1992 EUROPEAN CUP WINNERS'</span> CUP FINAL IN LISBON.
+										</p>
 									</div>
 								</div>
 								<iframe width="524" height="296" src="https://www.youtube.com/embed/AumYyRB_1Ak" frameborder="0" allowfullscreen></iframe>
@@ -642,18 +673,23 @@
 									<div class="inner-content ">
 										<div class="col-container color-white">
 											<div class="col-6">
-												<p class="tradegothic font-27 text-shadow line-0-965 first-child display-flex">Thomas (Icke) Häßler </span></p>
-												<p class="circularpro-book font-14 second-child display-flex "><span class="vertical-align-super margin-top-4">wore the </span> <span class="tradegothic font-31 text-shadow filler-margin">Predator Touch</span></p>
+												<p class="circularpro-book font-18 line-1-215 first-child">
+													<span class="sss-yellow">THOMAS (ICKE) HÄSSLER</span> WORE <br>
+													THE <span class="sss-yellow">PREDATOR TOUCH</span> WHEN HE <br>
+													WAS PART OF THE GERMAN <br>
+													TEAM WHO BECAME EUROPEAN <br>
+													<span class="sss-yellow">CHAMPIONS</span> AT EURO 1996 <br>
+													IN ENGLAND.
+												</p>
 												<img src="images/thomas-shoes.png" class="float-left" alt="Thomas">
-												<p class="circularpro-book font-14 third-child display-flex ">when he was part of the</p>
-												<p class="circularpro-book font-14 fourth-child display-flex "><span class="tradegothic font-31 text-shadow filler-margin">German team</span> <span class="vertical-align-super margin-top-4">who</span></p>
-												<p class="circularpro-book font-14 fifth-child display-flex "><span class="vertical-align-super margin-top-4">became European </span> <span class="tradegothic font-27 text-shadow filler-margin">Champions</span></p>
-												<p class="circularpro-book font-14 sixth-child display-flex ">at EURO 1996 in England.</p>
 											</div>
 											<div class="col-6">
 												<iframe width="421" height="231" src="https://www.youtube.com/embed/nAdCWfCDSGo" frameborder="0" allowfullscreen></iframe>
 											</div>
-											<p class="tradegothic font-26">He was one of the first top players to prefer wearing the Predator.</p>
+											<div class="clear"></div>
+											<div class="col-12">
+												<p class="circularpro-book font-18 second-child">He was one of the first top players to prefer wearing the Predator.</p>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -663,8 +699,10 @@
 							<div class="inner-content ">
 								<div class="bg-container">
 									<div class="container">
-										<p class="tradegothic font-35 text-shadow line-1">Nike <span class="margin-top-7 circularpro-book font-20 vertical-align-middle text-shadow-none">debuts the new </span> Mercurial boot</p>
-										<p class="circularpro-book font-25">on <span class="tradegothic font-35">Ronaldo’s feet</span> in France at the <span class="tradegothic font-35">1998 world cup.</span></p>
+										<p class="circularpro-book font-25 text-shadow line-1-215">
+											<span class="sss-yellow">Nike</span> debuts the new <span class="sss-yellow">Mercurial boot</span> <br/>
+											on <span class="sss-yellow">Ronaldo’s feet</span> in France at the <span class="sss-yellow">1998 world cup</span>.
+										</p>
 									</div>
 								</div>
 								<iframe width="443" height="246" src="https://www.youtube.com/embed/_hiH6w4LFLo" frameborder="0" allowfullscreen></iframe>
@@ -681,18 +719,20 @@
 					<section class="" id="ninth-slide" data-transition="zoom">
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-45 text-shadow-lighter tradegothic">Year 2000’s:</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 2000’s:</h2>
 							<img class="separator separator-235" src="images/banner-separator.png">
-							<h2 class="font-53 alphaheadline text-shadow-light">The 21st century<br />football boots</h2>
+							<p class="font-30 circularpro-book text-shadow-light line-0-915">The 21st century football boots</p>
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 50%" data-background-size="100% 238px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
-								<p class="circularpro-book font-20 line-1-215">In the first decade of the 21st century a range of new technologies such as rapid<br />prototyping and laser cutting became more affordable. </p>
+								<p class="circularpro-book font-18 line-1-215">In the first decade of the 21st century a range of new technologies <br /> such as rapidprototyping and laser cutting became more affordable. </p>
 								<div class="bg-container">
 									<img src="images/ninth-boots-5-images.png" alt="boots">
-									<p class="tradegothic font-37 text-shadow first-child"><span class="circularpro-book font-19 vertical-align-middle text-shadow-none">As a result, they began to </span>find their way <span class="circularpro-book font-19 vertical-align-middle text-shadow-none">into football boot design.</span></p>
-									<p class="tradegothic font-51 text-shadow line-0-7 second-child"><span class="circularpro-book font-19 vertical-align-super text-shadow-none">this </span>leap <span class="circularpro-book font-19 vertical-align-super text-shadow-none">allowed manufacturers to </span>begin <span class="circularpro-book font-19 vertical-align-super text-shadow-none">producing some of the</span></p>
-									<p class="tradegothic font-45 text-shadow third-child">first fully customised football boots.</p>
+									<p class="circularpro-book font-25 first-child text-center">
+										AS A RESULT, THEY BEGAN TO <span class="sss-yellow">FIND THEIR WAY</span> INTO FOOTBALL <br/>
+										BOOT DESIGN. THIS <span class="sss-yellow">LEAP</span> ALLOWED MANUFACTURERS TO <span class="sss-yellow">BEGIN</span> PRODUCING <br/>
+										SOME OF THE <span class="sss-yellow">FIRST FULLY CUSTOMISED FOOTBALL BOOTS</span>.
+									</p>
 								</div>
 							</div>
 						</section>
@@ -704,10 +744,14 @@
 											<img src="images/adidas.jpg" alt="adidas">
 										</div>
 										<div class="col-6 last-child">
-											<p class="circularpro-book font-21">in  2001,</p>
-											<p class="tradegothic font-40 text-shadow">Adidas Predator TRX SG</p>
-											<p class="circularpro-book font-18">was produced for the English<br />national football player</p>
-											<p class="tradegothic font-40 text-shadow">David Beckham.</p>
+											<p class="circularpro-book font-25">
+												IN 2001,<br/>
+												<span class="sss-yellow">ADIDAS PREDATOR TRX SG</span> <br/>
+												WAS PRODUCED FOR THE <br/>
+												ENGLISH NATIONAL FOOTBALL <br>
+												PLAYER  <span class="sss-yellow">DAVID BECKHAM</span>. <br/>
+											</p>
+											<br/>
 											<p class="circularpro-book font-18">A personalized lace was used and the<br />name of his first son Brooklyn Beckham<br />was stitched on the boot. </p>
 										</div>
 									</div>
@@ -719,11 +763,13 @@
 								<div class="inner-content ">
 									<div class="col-container color-white">
 										<div class="col-6">
-											<p class="circularpro-book font-25">Nike’s limited edition</p>
-											<p class="tradegothic font-35">- Tiempo Touch of Gold boots -</p>
-											<p class="circularpro-book font-15">are launched in 2006 with an iconic video of</p>
-											<p class="tradegothic font-35">Ronaldinho</p>
-											<p class="circularpro-book font-15">firing a ball off a crossbar four times in a row<br />without the ball hitting the ground. </p>
+											<p class="circularpro-book font-25">
+												NIKE’S LIMITED EDITION <br/>
+												- <span class="sss-yellow">TIEMPO TOUCH OF GOLD BOOTS</span> - <br/>
+												ARE LAUNCHED IN 2006 WITH AN ICONIC VIDEO OF <span class="sss-yellow">RONALDINHO</span>  <br/>
+												FIRING A BALL OFF A CROSSBAR FOUR TIMES IN A ROW <br/>
+												WITHOUT THE BALL HITTING THE GROUND. <br/>
+											</p>
 										</div>
 										<div class="col-6 last-child">
 											<iframe width="473" height="266" src="http://www.youtube.com/embed/Z6JdxaDDzb8" frameborder="0" allowfullscreen></iframe>
@@ -740,15 +786,8 @@
 										<iframe width="302" height="164" src="http://www.youtube.com/embed/QryFUtRtUiM" frameborder="0" allowfullscreen></iframe>
 										<iframe width="302" height="164" src="http://www.youtube.com/embed/f6_eVBz72t0" frameborder="0" allowfullscreen></iframe>
 									</div>
-									<p class="circularpro-book font-15 text-shadow">
-										With twelve teams,
-										<span class="tradegothic font-36">PUMA </span>
-										is the dominant kit supplier at the
-										<span class="tradegothic font-32">World Cup in Germany:</span>
-										<br />
-										<span class="tradegothic font-32">Italy </span>
-										would go on to win wearing the
-										<span class="tradegothic font-32">Puma KIT.</span>
+									<p class="circularpro-book font-25 text-shadow-new">
+										With twelve teams, <span class="sss-yellow">PUMA</span> is the dominant kit supplier at the World <br/>Cup in Germany: Italy would go on to win wearing the <span class="sss-yellow">Puma KIT</span>.
 									</p>
 								</div>
 							</div>
@@ -764,23 +803,22 @@
 					<section class="" id="tenth-slide" data-transition="zoom">
 
 						<section data-transition="zoom" data-state="bg-whitetogray above-the-fold-state" class="above-the-fold color-white slide-1">
-							<h2 class="font-74 text-shadow-lighter tradegothic">Year 2010’s and the Future</h2>
+							<h2 class="font-55 text-shadow-lighter-new tradegothic sss-yellow">Year 2010’s and the Future</h2>
 							<img class="separator separator-386" src="images/banner-separator.png">
 						</section>
 						<section data-transition="slide" class="slide-2" data-background-image="" data-background-position="100% 3%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#fff" >
 							<div class="inner-content ">
 								<div class="container">
 									<img src="images/better-technologies.png" alt="shoes" class="margin-bottom-5">
-									<p class="circularpro-book font-20 color-gray-4a4b4b line-1-215">
-										The modern game of football has become faster, <br />
-										with players more technically inclined then ever before.<br />
-										To support this new generation of athletes, manufacturers are now<br />
-										investing substancial resources into
+									<p class="circularpro-book font-18 color-gray-4a4b4b line-1-215">
+										The modern game of football has become faster, 	with players more technically<br />
+									  inclined then ever before. To support this new generation of athletes,<br />
+										manufacturers are now investing substancial resources into<br />
 									</p>
 								</div>
 								<div class="bg-container">
 									<div class="container">
-										<p class="tradegothic font-36 text-shadow line-0-965 third-child color-white">better technologies<br /><span class="font-30">and</span><br />novel materials </p>
+										<p class="circularbook-pro font-25 text-shadow-new line-0-965 third-child sss-yellow" data-effect="slideInLeft">better technologies and novel materials </p>
 									</div>
 								</div>
 								<img src="images/novel-materials.png" alt="shoes">
@@ -791,9 +829,11 @@
 								<div class="container">
 									<div class="col-container color-white">
 										<div class="col-6">
-											<p class="tradegothic font-40 text-shadow">PUMA <span class="circularpro-book font-18">continues to push</span></p>
-											<p class="circularpro-book font-18">the design of boots with</p>
-											<p class="tradegothic font-40 text-shadow line-0-87">evoPOWER <span class="circularpro-book font-18">and</span> evoSPEED</p>
+											<p class="circularpro-book font-25 ">
+												<span class="sss-yellow">PUMA</span> CONTINUES TO PUSH <br>
+												THE DESIGN OF BOOTS WITH <br>
+												<span class="sss-yellow">EVOPOWER</span> AND <span class="sss-yellow">EVOSPEED</span>.
+											</p>
 										</div>
 										<div class="col-6 last-child">
 											<img src="images/puma-evo.png" alt="adidas">
@@ -807,12 +847,14 @@
 								<div class="container">
 									<div class="col-container color-gray-292a2a">
 										<div class="col-6">
-											<p class="circularpro-book font-22"><span class="">In 2015 the</span> <span class="tradegothic font-35">Adidas Messi 10/10 </span></p>
-											<p class="circularpro-book font-24">was released in celebration of </p>
-											<p class="tradegothic font-38 line-0-7">Leo Messi's  <span class="circularpro-book font-18 vertical-align-middle">astonishing 2014-15 season. </span></p>
+											<p class="circularpro-book font-25">
+												IN 2015 THE <span class="sss-yellow">ADIDAS MESSI 10/10</span> <br/>
+												WAS RELEASED IN CELEBRATION OF <br/>
+												<span class="sss-yellow">LEO MESSI'S</span> ASTONISHING 2014-15 SEASON.
+											</p>
 											<p class="circularpro-book font-18 line-1-215">
 												The boots represent some of the
-												cutting edge technology we see in
+												cutting edge <br> technology we see in
 												today’s football shoes.
 											</p>
 										</div>
@@ -828,45 +870,45 @@
 								<div class="container">
 									<div class="col-container color-white">
 										<div class="col-6">
-											<p class="tradegothic font-40 line-0-7">Nike <span class="circularpro-book font-18 vertical-align-middle">introduced their mid-cut boots with</span></p>
-											<p class="tradegothic font-42"><span class="circularpro-book font-18 vertical-align-middle">Nike Flyknit uppers: the </span><span class="display-block-sm">Magista</span></p>
-											<p class="tradegothic font-42 line-0-7 margin-bottom-11"><span class="circularpro-book font-18 vertical-align-middle">And </span>Mercurial Superfly. </p>
-											<p class="circularpro-book font-15 line-1-215">
-												The design responds to new faster pace
-												of football,  with the Magista
-												created for playmakers
-												and the Mercurial Superfly
-												created to   help the quickest players
-												to take advantage of every split second.
+											<p class="circularpro-book font-25 first-child line-1-215 text-center">
+												<span class="sss-yellow">NIKE</span> INTRODUCED THEIR <br>
+												MID-CUT BOOTS WITH NIKE FLY <br>
+												KNIT UPPERS : THE <span class="sss-yellow">MAGISTA</span> <br>
+												AND <span class="sss-yellow">MERCURIAL SUPERFLY</span>. <br>
+											</p>
+											<p class="circularpro-book font-18 line-1-215 last-child text-center">
+												THE DESIGN RESPONDS TO NEW FASTER PACE <br>
+												OF FOOTBALL, WITH THE MAGISTA CREATED <br>
+												FOR PLAYMAKERS AND THE MERCURIAL SUPERFLY <br>
+												CREATED TO HELP THE QUICKEST PLAYERS <br>
 											</p>
 										</div>
-										<div class="col-6 last-child">
+										<div class="col-6">
 											<img src="images/magista-mercurial.jpg" alt="magista-mercurial">
 										</div>
 									</div>
 								</div>
 							</div>
 						</section>
-						<section data-transition="slide" data-state="bg-graytowhite-alt" class="slide-6" data-background-image="" data-background-position="100% 50%" data-background-size="100% 330px" data-background-repeat="no-repeat" >
+						<section data-transition="slide" data-state="" class="slide-6" data-background-image="" data-background-position="100% 50%" data-background-size="100% 330px" data-background-repeat="no-repeat" >
 							<div class="inner-content">
 								<div class="bg-container">
 									<div class="container">
-										<p class="circularpro-book font-15 color-gray-292a2a">Manufacturers are no longer required to choose  between</p>
-										<p class="tradegothic font-27 color-gray-4a4b4b ">protection, <span class="font-32">performance, </span>or style.</p>
-										<p class="circularpro-book font-15 color-gray-4a4b4b">– all three can be combined and delivered in the same design.</p>
-										<p class="tradegothic font-27 color-gray-4a4b4b">As long as there is football,</p>
-										<p class="circularpro-book font-15 color-gray-4a4b4b">there will always be a need for</p>
-										<p class="tradegothic font-36 color-gray-4a4b4b ">football BOOTS.</p>
+										<p class="circularpro-book font-25 color-gray">
+											MANUFACTURERS ARE NO LONGER REQUIRED TO CHOOSE BETWEEN <br>
+											<span class="sss-yellow">PROTECTION</span>, <span class="sss-yellow">PERFORMANCE</span>, OR <span class="sss-yellow">STYLE</span>. <br>
+											– ALL THREE CAN BE COMBINED AND DELIVERED IN THE SAME DESIGN. <br>
+											<span class="sss-yellow">AS LONG AS THERE IS FOOTBALL</span>, <br>
+											THERE WILL ALWAYS BE A NEED FOR <br>
+											<span class="sss-yellow">FOOTBALL BOOTS</span>.
+										</p>
 
 										<div class="guide-button-container">
 											<div class="guide-button">
-												<p class="circularpro-book font-18"><a href="http://en-ae.sssports.com/sports/football" target="_blank">click here <br />to find more shoes: </a></p>
+												<p class="circularpro-book font-11"><a href="http://en-ae.sssports.com/sports/football" target="_blank">click here for more <br>
+football boots </a></p>
 											</div>
 										</div>
-
-										<p class="circularpro-book font-15 color-gray-292a2a margin-top-16">Just like any other industry,<br />manufacturers of soccer shoes will always be looking for new ways to make a</p>
-										<p class="tradegothic font-27 color-gray-4a4b4b ">a faster, <span class="font-32">Lighter, </span>and stronger football boot</p>
-										<p class="circularpro-book font-15 color-gray-292a2a margin-top-5">and we can’t wait to see what they come up with.</p>
 									</div>
 								</div>
 							</div>
@@ -987,7 +1029,10 @@
 				    <div class='timeline-title tt-6'><img src="images/years/1980.png" alt="1980"></div>
 				    <div class='timeline-title tt-7'><img src="images/years/1990.png" alt="1990"></div>
 				    <div class='timeline-title tt-8'><img src="images/years/2000.png" alt="2000"></div>
-				    <div class='timeline-title tt-9'><img src="images/years/2010_future.png" alt="2010_future"></div>
+				    <div class='timeline-title tt-9'>
+							<img src="images/years/2010_future.png" alt="2010_future" id="tt9default">
+							<a href="#/" id="tt9tostart"><img src="images/years/back-to-start.png" alt="Back To Start"></a>
+						</div>
 			    </div>
 			</div>
 		</div>

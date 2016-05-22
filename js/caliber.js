@@ -107,6 +107,7 @@
             $(".it-0").addClass('selected');
             $(".arrow-up").remove();
             $(".it-0 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -156,6 +157,7 @@
             $(".it-1").addClass('selected');
             $(".arrow-up").remove();
             $(".it-1 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
 
             if(event.indexv == 0) {
@@ -193,6 +195,7 @@
             $(".it-2").addClass('selected');
             $(".arrow-up").remove();
             $(".it-2 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -238,6 +241,7 @@
             $(".it-3").addClass('selected');
             $(".arrow-up").remove();
             $(".it-3 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -292,6 +296,7 @@
             $(".it-4").addClass('selected');
             $(".arrow-up").remove();
             $(".it-4 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -346,6 +351,7 @@
             $(".it-5").addClass('selected');
             $(".arrow-up").remove();
             $(".it-5 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -400,6 +406,7 @@
             $(".it-6").addClass('selected');
             $(".arrow-up").remove();
             $(".it-6 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -454,6 +461,7 @@
             $(".it-7").addClass('selected');
             $(".arrow-up").remove();
             $(".it-7 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -508,6 +516,7 @@
             $(".it-8").addClass('selected');
             $(".arrow-up").remove();
             $(".it-8 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -578,6 +587,8 @@
                 $("#slide-9-1").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -587,6 +598,8 @@
                 $("#slide-9-2").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -596,6 +609,8 @@
                 $("#slide-9-3").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -605,6 +620,8 @@
                 $("#slide-9-4").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -614,7 +631,10 @@
                 $("#slide-9-5").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").hide();
+                $("#tt9tostart").show();
                 $(".tt-9").css({opacity: 1});
+
             }
         }
       });
@@ -628,6 +648,7 @@
             $(".it-0").addClass('selected');
             $(".arrow-up").remove();
             $(".it-0 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -677,6 +698,7 @@
             $(".it-1").addClass('selected');
             $(".arrow-up").remove();
             $(".it-1 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
 
             if(event.indexv == 0) {
@@ -714,6 +736,7 @@
             $(".it-2").addClass('selected');
             $(".arrow-up").remove();
             $(".it-2 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -759,6 +782,7 @@
             $(".it-3").addClass('selected');
             $(".arrow-up").remove();
             $(".it-3 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -813,6 +837,7 @@
             $(".it-4").addClass('selected');
             $(".arrow-up").remove();
             $(".it-4 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -867,6 +892,7 @@
             $(".it-5").addClass('selected');
             $(".arrow-up").remove();
             $(".it-5 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -921,6 +947,7 @@
             $(".it-6").addClass('selected');
             $(".arrow-up").remove();
             $(".it-6 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -975,6 +1002,7 @@
             $(".it-7").addClass('selected');
             $(".arrow-up").remove();
             $(".it-7 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -1029,6 +1057,7 @@
             $(".it-8").addClass('selected');
             $(".arrow-up").remove();
             $(".it-8 a").prepend('<div class="arrow-up"></div>');
+            $("#tt9tostart").hide();
 
             if(event.indexv == 0) {
                 $(".slider-bullets").removeClass('selected');
@@ -1099,6 +1128,8 @@
                 $("#slide-9-1").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -1108,6 +1139,8 @@
                 $("#slide-9-2").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -1117,6 +1150,8 @@
                 $("#slide-9-3").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -1126,6 +1161,8 @@
                 $("#slide-9-4").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").show();
+                $("#tt9tostart").hide();
                 $(".tt-9").css({opacity: 1});
             }
 
@@ -1135,7 +1172,10 @@
                 $("#slide-9-5").addClass('selected');
                 $(".to-top-scroller").show();
                 $(".interactive-timeline-container").hide();
+                $("#tt9default").hide();
+                $("#tt9tostart").show();
                 $(".tt-9").css({opacity: 1});
+
             }
         }
       });
