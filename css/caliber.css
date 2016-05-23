@@ -573,16 +573,31 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 }
 
 .bullet-lists-container {
-		position: absolute;
-		top: 275px;
-		right: 74px;
-		width: 20px;
-		z-index: 10000;
-		display: none;
+			top: 10%;
+			right: 74px;
+			width: 20px;
+			z-index: 10000;
+			display: none;
+			height: 80%;
+			position: absolute;
+			overflow: hidden;
+			bottom: 10%;
+}
+
+.bullet-lists-container .helper {
+		display: table-cell;
+		vertical-align: middle !important;
 }
 
 ul.bullet-lists.intro-list {
-    list-style: none;
+		list-style: none;
+		position: relative;
+		top: 0;
+		bottom: 0;
+		width: 20px;
+		z-index: 10000;
+		margin: 0 auto !important;
+		height: auto;
 }
 
 ul.bullet-lists.intro-list li {
@@ -997,7 +1012,7 @@ ul.bullet-lists.intro-list li a {
 	}
 	.timeline-container .timeline-title {
 	    width: 100%;
-	    height: 28px;
+	    height: 38px;
 	    float: none;
 	    transition: all 100ms ease-in-out;
 	    position: absolute;
@@ -1013,5 +1028,11 @@ ul.bullet-lists.intro-list li a {
 	#eighth-slide .slide-4 .bg-container img {
 	    top: 0;
 	    left: 0;
+	}
+	.col-1 {
+		width: 6%;
+	}
+	.col-10 {
+		width: 88%;
 	}
 }

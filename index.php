@@ -144,7 +144,7 @@
 									</div>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/"><img src="images/to-top.png"></a>
@@ -195,7 +195,7 @@
 									</div>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/1"><img src="images/to-top.png"></a>
@@ -243,7 +243,7 @@
 									Spannish goals were disallowed in both matches.
 								</p>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/2"><img src="images/to-top.png"></a>
@@ -341,7 +341,7 @@
 									</div>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/3"><img src="images/to-top.png"></a>
@@ -413,7 +413,7 @@
 										</p>
 									</div>
 								</div>
-								<div class="bg-container"><img class="margin-bottom-10" src="images/slide-5-4-shoes.jpg" alt="shoe"></div>
+								<div class="bg-container"><img class="margin-bottom-10" src="images/slide-5-4-shoes.png" alt="shoe"></div>
 								<p class="circularpro-book font-25 line-1-215">
 									To help, <span class="sss-yellow">Adi Dassler</span> designed the <span class="sss-yellow">Adidas Achilles</span>, <br/>
 									a <span class="sss-yellow">special orthopedic shoe</span> which enabled seeler to play again.
@@ -431,7 +431,7 @@
 									</p>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+							
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/4"><img src="images/to-top.png"></a>
@@ -504,7 +504,7 @@
 								</div>
 							</div>
 						</section>
-						<section data-transition="slide"  class="color-white slide-5">
+						<section data-transition="slide"  class="color-white slide-5" data-state="bg-whitetogray" data-background-image="images/bg-gray-black-330.jpg" data-background-position="100% 50%" data-background-size="100% 330px" data-background-repeat="no-repeat">
 							<div class="container">
 								<div class="inner-content ">
 									<div class="col-container color-white text-shadow">
@@ -521,7 +521,7 @@
 									</p>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/5"><img src="images/to-top.png"></a>
@@ -623,7 +623,7 @@
 									</div>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/6"><img src="images/to-top.png"></a>
@@ -707,7 +707,7 @@
 								</div>
 								<iframe width="443" height="246" src="https://www.youtube.com/embed/_hiH6w4LFLo" frameborder="0" allowfullscreen></iframe>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/7"><img src="images/to-top.png"></a>
@@ -791,7 +791,7 @@
 									</p>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/8"><img src="images/to-top.png"></a>
@@ -912,7 +912,7 @@ football boots </a></p>
 									</div>
 								</div>
 							</div>
-							<span class="fragment moveToTop"></span>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/9"><img src="images/to-top.png"></a>
@@ -920,101 +920,121 @@ football boots </a></p>
 					</section>
 				</div>
 				<div class="bullet-lists-container" id="blc-0">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-0-0" class='slider-bullets'><a href="#/"></a></li>
-						<li id="slide-0-1" class='slider-bullets'><a href="#/0/1"></a></li>
-						<li id="slide-0-2" class='slider-bullets'><a href="#/0/2"></a></li>
-						<li id="slide-0-3" class='slider-bullets'><a href="#/0/3"></a></li>
-						<li id="slide-0-4" class='slider-bullets'><a href="#/0/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-0-0" class='slider-bullets'><a href="#/"></a></li>
+							<li id="slide-0-1" class='slider-bullets'><a href="#/0/1"></a></li>
+							<li id="slide-0-2" class='slider-bullets'><a href="#/0/2"></a></li>
+							<li id="slide-0-3" class='slider-bullets'><a href="#/0/3"></a></li>
+							<li id="slide-0-4" class='slider-bullets'><a href="#/0/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-1">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-1-0" class='slider-bullets'><a href="#/1"></a></li>
-						<li id="slide-1-1" class='slider-bullets'><a href="#/1/1"></a></li>
-						<li id="slide-1-2" class='slider-bullets'><a href="#/1/2"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-1-0" class='slider-bullets'><a href="#/1"></a></li>
+							<li id="slide-1-1" class='slider-bullets'><a href="#/1/1"></a></li>
+							<li id="slide-1-2" class='slider-bullets'><a href="#/1/2"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-2">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-2-0" class='slider-bullets'><a href="#/2"></a></li>
-						<li id="slide-2-1" class='slider-bullets'><a href="#/2/1"></a></li>
-						<li id="slide-2-2" class='slider-bullets'><a href="#/2/2"></a></li>
-						<li id="slide-2-3" class='slider-bullets'><a href="#/2/3"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-2-0" class='slider-bullets'><a href="#/2"></a></li>
+							<li id="slide-2-1" class='slider-bullets'><a href="#/2/1"></a></li>
+							<li id="slide-2-2" class='slider-bullets'><a href="#/2/2"></a></li>
+							<li id="slide-2-3" class='slider-bullets'><a href="#/2/3"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-3">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-3-0" class='slider-bullets'><a href="#/3"></a></li>
-						<li id="slide-3-1" class='slider-bullets'><a href="#/3/1"></a></li>
-						<li id="slide-3-2" class='slider-bullets'><a href="#/3/2"></a></li>
-						<li id="slide-3-3" class='slider-bullets'><a href="#/3/3"></a></li>
-						<li id="slide-3-4" class='slider-bullets'><a href="#/3/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-3-0" class='slider-bullets'><a href="#/3"></a></li>
+							<li id="slide-3-1" class='slider-bullets'><a href="#/3/1"></a></li>
+							<li id="slide-3-2" class='slider-bullets'><a href="#/3/2"></a></li>
+							<li id="slide-3-3" class='slider-bullets'><a href="#/3/3"></a></li>
+							<li id="slide-3-4" class='slider-bullets'><a href="#/3/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-4">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-4-0" class='slider-bullets'><a href="#/4"></a></li>
-						<li id="slide-4-1" class='slider-bullets'><a href="#/4/1"></a></li>
-						<li id="slide-4-2" class='slider-bullets'><a href="#/4/2"></a></li>
-						<li id="slide-4-3" class='slider-bullets'><a href="#/4/3"></a></li>
-						<li id="slide-4-4" class='slider-bullets'><a href="#/4/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-4-0" class='slider-bullets'><a href="#/4"></a></li>
+							<li id="slide-4-1" class='slider-bullets'><a href="#/4/1"></a></li>
+							<li id="slide-4-2" class='slider-bullets'><a href="#/4/2"></a></li>
+							<li id="slide-4-3" class='slider-bullets'><a href="#/4/3"></a></li>
+							<li id="slide-4-4" class='slider-bullets'><a href="#/4/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-5">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-5-0" class='slider-bullets'><a href="#/5"></a></li>
-						<li id="slide-5-1" class='slider-bullets'><a href="#/5/1"></a></li>
-						<li id="slide-5-2" class='slider-bullets'><a href="#/5/2"></a></li>
-						<li id="slide-5-3" class='slider-bullets'><a href="#/5/3"></a></li>
-						<li id="slide-5-4" class='slider-bullets'><a href="#/5/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-5-0" class='slider-bullets'><a href="#/5"></a></li>
+							<li id="slide-5-1" class='slider-bullets'><a href="#/5/1"></a></li>
+							<li id="slide-5-2" class='slider-bullets'><a href="#/5/2"></a></li>
+							<li id="slide-5-3" class='slider-bullets'><a href="#/5/3"></a></li>
+							<li id="slide-5-4" class='slider-bullets'><a href="#/5/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-6">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-6-0" class='slider-bullets'><a href="#/6"></a></li>
-						<li id="slide-6-1" class='slider-bullets'><a href="#/6/1"></a></li>
-						<li id="slide-6-2" class='slider-bullets'><a href="#/6/2"></a></li>
-						<li id="slide-6-3" class='slider-bullets'><a href="#/6/3"></a></li>
-						<li id="slide-6-4" class='slider-bullets'><a href="#/6/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-6-0" class='slider-bullets'><a href="#/6"></a></li>
+							<li id="slide-6-1" class='slider-bullets'><a href="#/6/1"></a></li>
+							<li id="slide-6-2" class='slider-bullets'><a href="#/6/2"></a></li>
+							<li id="slide-6-3" class='slider-bullets'><a href="#/6/3"></a></li>
+							<li id="slide-6-4" class='slider-bullets'><a href="#/6/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-7">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-7-0" class='slider-bullets'><a href="#/7"></a></li>
-						<li id="slide-7-1" class='slider-bullets'><a href="#/7/1"></a></li>
-						<li id="slide-7-2" class='slider-bullets'><a href="#/7/2"></a></li>
-						<li id="slide-7-3" class='slider-bullets'><a href="#/7/3"></a></li>
-						<li id="slide-7-4" class='slider-bullets'><a href="#/7/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-7-0" class='slider-bullets'><a href="#/7"></a></li>
+							<li id="slide-7-1" class='slider-bullets'><a href="#/7/1"></a></li>
+							<li id="slide-7-2" class='slider-bullets'><a href="#/7/2"></a></li>
+							<li id="slide-7-3" class='slider-bullets'><a href="#/7/3"></a></li>
+							<li id="slide-7-4" class='slider-bullets'><a href="#/7/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-8">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-8-0" class='slider-bullets'><a href="#/8"></a></li>
-						<li id="slide-8-1" class='slider-bullets'><a href="#/8/1"></a></li>
-						<li id="slide-8-2" class='slider-bullets'><a href="#/8/2"></a></li>
-						<li id="slide-8-3" class='slider-bullets'><a href="#/8/3"></a></li>
-						<li id="slide-8-4" class='slider-bullets'><a href="#/8/4"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-8-0" class='slider-bullets'><a href="#/8"></a></li>
+							<li id="slide-8-1" class='slider-bullets'><a href="#/8/1"></a></li>
+							<li id="slide-8-2" class='slider-bullets'><a href="#/8/2"></a></li>
+							<li id="slide-8-3" class='slider-bullets'><a href="#/8/3"></a></li>
+							<li id="slide-8-4" class='slider-bullets'><a href="#/8/4"></a></li>
+						</ul>
+					</div>
 				</div>
 
 				<div class="bullet-lists-container" id="blc-9">
-					<ul class='bullet-lists intro-list'>
-						<li id="slide-9-0" class='slider-bullets'><a href="#/9"></a></li>
-						<li id="slide-9-1" class='slider-bullets'><a href="#/9/1"></a></li>
-						<li id="slide-9-2" class='slider-bullets'><a href="#/9/2"></a></li>
-						<li id="slide-9-3" class='slider-bullets'><a href="#/9/3"></a></li>
-						<li id="slide-9-4" class='slider-bullets'><a href="#/9/4"></a></li>
-						<li id="slide-9-5" class='slider-bullets'><a href="#/9/5"></a></li>
-					</ul>
+					<div class="helper">
+						<ul class='bullet-lists intro-list'>
+							<li id="slide-9-0" class='slider-bullets'><a href="#/9"></a></li>
+							<li id="slide-9-1" class='slider-bullets'><a href="#/9/1"></a></li>
+							<li id="slide-9-2" class='slider-bullets'><a href="#/9/2"></a></li>
+							<li id="slide-9-3" class='slider-bullets'><a href="#/9/3"></a></li>
+							<li id="slide-9-4" class='slider-bullets'><a href="#/9/4"></a></li>
+							<li id="slide-9-5" class='slider-bullets'><a href="#/9/5"></a></li>
+						</ul>
+					</div>
 				</div>
 
 			</div>
