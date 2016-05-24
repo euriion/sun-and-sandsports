@@ -195,6 +195,13 @@
 									</div>
 								</div>
 							</div>
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/about-us" target="_blank">CLICK HERE TO KNOW <br>
+ABOUT OUR HISTORY </a></p>
+								</div>
+							</div>
 
 						</section>
 						<div class="to-top-scroller">
@@ -240,10 +247,16 @@
 								<p class="font-18 line-1-215">
 									The match is notorious for Italy’s aggressive play and some questionable<br/>
 									officiating. In the end Italy would bully Spain out of contention after<br />
-									Spannish goals were disallowed in both matches.
+									Spanish goals were disallowed in both matches.
 								</p>
 							</div>
-
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://become.sssports.com/football-shooting-tips-and-techniques/" target="_blank">FOOTBALL SHOOTING TECHNIQUES <br>
+CLICK HERE</a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/2"><img src="images/to-top.png"></a>
@@ -331,7 +344,7 @@
 									<div class="container">
 										<div class="text-holder">
 											<p class="circularpro-book font-25 text-center text-shadow-new">
-												The Adidas Agentinia, worn by<span class="sss-yellow">&nbsp;Fritz Walter</span>, <br/>
+												The Adidas ARGENTINIA, worn by<span class="sss-yellow">&nbsp;Fritz Walter</span>, <br/>
 												used this<span class="sss-yellow">&nbsp;new technology&nbsp;</span>and gave the Mannschaft <br/>
 												a<span class="sss-yellow">&nbsp;noticeable advantage&nbsp;</span>during a rain-lashed <br/>
 											<span class="sss-yellow">	World Cup in 1954.</span>
@@ -341,7 +354,12 @@
 									</div>
 								</div>
 							</div>
-
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/brands/adidas" target="_blank">SHOP FOR ADIDAS<br> FOOTBALL BOOTS </a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/3"><img src="images/to-top.png"></a>
@@ -431,7 +449,12 @@
 									</p>
 								</div>
 							</div>
-							
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/brands/nike" target="_blank">SHOP FOR NIKE<br> FOOTBALL BOOTS </a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/4"><img src="images/to-top.png"></a>
@@ -521,7 +544,12 @@
 									</p>
 								</div>
 							</div>
-
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/brands/puma" target="_blank">SHOP FOR PUMA<br> FOOTBALL BOOTS </a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/5"><img src="images/to-top.png"></a>
@@ -623,7 +651,12 @@
 									</div>
 								</div>
 							</div>
-
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/sports/football?cat=587" target="_blank">SHOP FOR <br>FOOTBALL ACCESSORIES </a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/6"><img src="images/to-top.png"></a>
@@ -643,7 +676,7 @@
 							<div class="inner-content ">
 								<div class="container">
 									<p class="circularpro-book font-25 line-1-215">
-										THIS PERIOD SAW A DIFFERENCE IN NOT ONLY <span class="sss-yellow">COLOUR</span>, <span class="sss-yellow">SIZE</span>, AND <span class="sss-yellow">SHAPE</span>, <br/>
+										THIS PERIOD SAW A DIFFERENCE NOT IN ONLY <span class="sss-yellow">COLOUR</span>, <span class="sss-yellow">SIZE</span>, AND <span class="sss-yellow">SHAPE</span>, <br/>
 										BUT ALSO IN <span class="sss-yellow">THE STUDS THAT WERE USED</span> ON THE UNDER SIDE OF THE BOOT.
 									</p>
 									<img src="images/boots-5-images.png" alt="Boots">
@@ -707,7 +740,12 @@
 								</div>
 								<iframe width="443" height="246" src="https://www.youtube.com/embed/_hiH6w4LFLo" frameborder="0" allowfullscreen></iframe>
 							</div>
-
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://become.sssports.com/pick-of-the-week-adidas-messi-15-1-fgag-football-shoe/" target="_blank">FOOTBALL BOOTS <br>PICK OF THE WEEK </a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/7"><img src="images/to-top.png"></a>
@@ -725,7 +763,7 @@
 						</section>
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 50%" data-background-size="100% 238px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content ">
-								<p class="circularpro-book font-18 line-1-215">In the first decade of the 21st century a range of new technologies <br /> such as rapidprototyping and laser cutting became more affordable. </p>
+								<p class="circularpro-book font-18 line-1-215">In the first decade of the 21st century a range of new technologies <br /> such as rapid prototyping and laser cutting became more affordable. </p>
 								<div class="bg-container">
 									<img src="images/ninth-boots-5-images.png" alt="boots">
 									<p class="circularpro-book font-25 first-child text-center">
@@ -791,7 +829,12 @@
 									</p>
 								</div>
 							</div>
-
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://become.sssports.com/2016s-smartest-football-boot-technologies-and-trends/" target="_blank">MORE FOOTBALL<br> TRENDS HERE</a></p>
+								</div>
+							</div>
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/8"><img src="images/to-top.png"></a>
@@ -812,7 +855,7 @@
 									<img src="images/better-technologies.png" alt="shoes" class="margin-bottom-5">
 									<p class="circularpro-book font-18 color-gray-4a4b4b line-1-215">
 										The modern game of football has become faster, 	with players more technically<br />
-									  inclined then ever before. To support this new generation of athletes,<br />
+									  inclined than ever before. To support this new generation of athletes,<br />
 										manufacturers are now investing substancial resources into<br />
 									</p>
 								</div>

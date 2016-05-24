@@ -453,7 +453,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 	    margin-top: 10px;
 	    padding: 20px 0;
 }
-#fifth-slide .slide-5 .inner-content { margin-top: 135px; }
+#fifth-slide .slide-5 .inner-content { margin-top: 70px; }
 #fifth-slide .slide-5 .inner-content .first-child { position: relative; left: -77px;padding-top: 18px; margin-top: 15px; line-height: 0.7; }
 
 #sixth-slide .slide-2 .inner-content .bg-container {background: url('../images/4-multicolor-bg.jpg') repeat-x; background-position: 100% 0%;background-size: 100% 292px;    height: 292px;  }
@@ -489,7 +489,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 .copa-mundial { margin-top: 10px !important; margin-bottom: 30px !important; }
 #seventh-slide .slide-5 .inner-content { margin-top: -65px; }
 #seventh-slide .slide-5 .bg-container .container { margin: 55px auto !important; }
-#seventh-slide .slide-5 .bg-container {     display: flex;background: url('../images/bg-black-gray-black-423.jpg') repeat-x; background-position: 100% 0%;background-size: 100% 423px; height: 423px;  }
+#seventh-slide .slide-5 .bg-container { top: 28px; position: relative; background: url('../images/bg-black-gray-black-423.jpg') repeat-x; background-position: 100% 0%;background-size: 100% 423px; height: 423px;  }
 #seventh-slide .slide-5 .bg-container iframe { width: 280px !important; height: 146px; }
 
 #eighth-slide .slide-2 .inner-content { background: url('../images/bg-black-white-black-335.jpg') repeat-x; background-position: 100% 0%;background-size: 100% 335px; height: 335px;padding: 0 0 7px; }
@@ -511,7 +511,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 #eighth-slide .slide-4 .bg-container img { position: relative; top: -115px; left: -35px; }
 #eighth-slide .slide-4 .bg-container .col-6:first-child { margin-top: 30px; }
 #eighth-slide .slide-4 .bg-container .tradegothic.font-26 { display: inline-block;position: relative; left: 28px; }
-#eighth-slide .slide-5 .inner-content { background: url('../images/bg-dark-gray-242.png') repeat-x; background-position: 100% 34%;background-size: 100% 297px; height: 400px; }
+#eighth-slide .slide-5 .inner-content { position: relative; top: 23px;background: url('../images/bg-dark-gray-242.png') repeat-x; background-position: 100% 34%;background-size: 100% 297px; height: 400px; }
 #eighth-slide .slide-5 .inner-content iframe { margin-top: 16px; }
 
 #ninth-slide .slide-2 .bg-container { background: url('../images/bg-white-gray-black-292.jpg') repeat-x; background-size: 100% 292px; height: 292px; }
@@ -549,7 +549,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 
 .timeline-container {
 		position: absolute;
-    bottom: 34px;
+    bottom: 24px;
     opacity: 0;
     z-index: 999;
     width: 100%;
@@ -700,6 +700,20 @@ ul.bullet-lists.intro-list li a {
     cursor: pointer;
     display: block;
 }
+
+#second-slide .slide-3 .guide-button-container { top: 30px !important; }
+#second-slide .slide-3 .guide-button-container .guide-button { width: 160px !important; }
+#third-slide .slide-4 .guide-button-container { top: 15px !important; }
+#third-slide .slide-4 .guide-button-container .guide-button { width: 240px !important; }
+#fourth-slide .slide-5 .guide-button-container { top: -30px !important; }
+#fifth-slide .slide-5 .guide-button-container { top: 10px !important; }
+#sixth-slide .slide-5 .container { top: 23px; position: relative; }
+#sixth-slide .slide-5 .guide-button-container { top: 70px !important; }
+#seventh-slide .slide-5 .guide-button-container { top: 40px !important; }
+#seventh-slide .slide-5 .guide-button-container .guide-button{ width: 170px !important; }
+#eighth-slide .slide-5 .guide-button-container { top:-10px !important; }
+#sixth-slide .slide-5 .inner-content  { top: 23px; position: relative; }
+#ninth-slide .slide-5 .guide-button-container { top:20px !important; }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 	#fifth-slide .slide-2 .inner-content .lower-content .display-flex { line-height: .93; }
@@ -1035,4 +1049,6 @@ ul.bullet-lists.intro-list li a {
 	.col-10 {
 		width: 88%;
 	}
+	#eighth-slide .slide-5 .guide-button-container { top:70px !important; }
+	#ninth-slide .slide-5 .guide-button-container { top:40px !important; }
 }
