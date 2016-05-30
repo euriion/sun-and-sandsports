@@ -267,7 +267,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 #first-slide .above-the-fold { margin-top: 82px !important; }
 .above-the-fold .uppercase { font-size: 25px; }
 .above-the-fold .col-container { margin: 30px 183px 0; text-transform: lowercase; }
-#first-slide .slide-2 .inner-content .container {position: relative;top: 68px;}
+#first-slide .slide-2 .inner-content .container {position: relative;top: 18px;}
 
 .separator { margin: 12px 0 10px !important; }
 
@@ -298,9 +298,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 }
 
 #first-slide .above-the-fold h2 { line-height: 0.795; }
-#first-slide .slide-2 .inner-content { background: url('../images/multicolor-bg.jpg') repeat-x; background-position: 100% 86%; height: 300px; }
-#first-slide .slide-2 .inner-content .font-25 { line-height: 1.315;margin-bottom: 0px; }
-#first-slide .slide-3 .inner-content {  }
+#first-slide .slide-3 .inner-content { background: url('../images/multicolor-bg.jpg') repeat-x; background-position: 100% 86%; height: 300px; }
+#first-slide .slide-3 .inner-content .font-25 { line-height: 1.315;margin-bottom: 0px; }
+#first-slide .slide-3 .inner-content .container{ top: 100px;position: relative; }
 #first-slide .slide-3 .inner-content .text-background { padding: 10px 0 15px; background: url('../images/bg-dark-gray.png') repeat-x; background-size: 100% 50px; margin: 7px 0; background-position: 100% 30%;}
 #first-slide .slide-4 .inner-content .col-6 .shoe-item { margin-top: 35px;}
 #first-slide .slide-4 .inner-content .col-6:first-child .shoe-item { margin-left: 145px;}
@@ -480,10 +480,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 #seventh-slide .slide-2 .inner-content img { margin: 5px 0 13px; }
 #seventh-slide .slide-3 .inner-content { margin-top: 42px; }
 #seventh-slide .slide-3 .inner-content .col-6:first-child { width: 520px; margin-top: 85px; }
-#seventh-slide .slide-3 .inner-content .col-6:last-child { width: 435px; }
+#seventh-slide .slide-3 .inner-content .col-6:last-child { width: 435px; margin-top: 42px; }
+#seventh-slide .slide-3 .guide-button-container {top: 30px; }
 #seventh-slide .slide-3 .inner-content .col-6:first-child .second-child { line-height: 0.45;}
 #seventh-slide .slide-4 .inner-content { margin-top: 35px; }
+#seventh-slide .slide-4 .inner-content .col-6:first-child { margin-top: 40px; }
 #seventh-slide .slide-4 .inner-content .col-6.last-child { margin-top: 65px; }
+#seventh-slide .slide-4 .guide-button-container {top: 30px; }
 #seventh-slide .slide-4 .inner-content .col-6.last-child p:nth-child(4) { position: relative; left: 43px; }
 
 .copa-mundial { margin-top: 10px !important; margin-bottom: 30px !important; }
@@ -542,7 +545,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', end
 #tenth-slide .slide-5 .inner-content .first-child { margin: 20px; }
 #tenth-slide .slide-5 .inner-content .last-child { margin: 15px 20px 0 0; }
 #tenth-slide .slide-6 .bg-container { background: #fff; padding: 5px 0 31px; }
-
+#tenth-slide .slide-7 .guide-button-container .guide-button{ width : 170px !important;}
 #tt9default, #tt9tostart {
 	display: none;
 }
@@ -746,7 +749,7 @@ ul.bullet-lists.intro-list li a {
 	#sixth-slide .slide-2 .inner-content .bg-container, #seventh-slide .slide-2 .inner-content .bg-container, #seventh-slide .slide-5 .bg-container,
 	#eighth-slide .slide-3 .bg-container, #eighth-slide .slide-4 .bg-container, #eighth-slide .slide-5 .inner-content, #ninth-slide .slide-2 .bg-container,
 	#ninth-slide .slide-5 .bg-container, #tenth-slide .slide-2 .bg-container, #tenth-slide .slide-3 .inner-content, #tenth-slide .slide-4 .inner-content,
-	#tenth-slide .slide-5 .inner-content, #tenth-slide .slide-6 .bg-container ,#first-slide .slide-2, #first-slide .slide-2 .inner-content, #first-slide .slide-3 .inner-content .text-background, #second-slide .slide-2 .inner-content div,
+	#tenth-slide .slide-5 .inner-content, #tenth-slide .slide-6 .bg-container ,#first-slide .slide-2, #first-slide .slide-2 .inner-content, #first-slide .slide-3 .inner-content, #second-slide .slide-2 .inner-content div,
 	#third-slide .slide-2 .inner-content, #fourth-slide .slide-4 .inner-content .bg-container
 	{ background: none; }
 	#first-slide .slide-4 img, .brand-logo, .social-icons li img, .separator, #third-slide .slide-3 img, .puma-adidas,

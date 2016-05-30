@@ -96,12 +96,19 @@
 						<section data-transition="slide" class="color-white slide-2" data-background-image="" data-background-position="100% 50%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content">
 								<div class="container ">
+									 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_wZ7bBFuf8" frameborder="0" allowfullscreen></iframe>
+								</div>
+							</div>
+						</section>
+						<section data-transition="slide" class="color-white slide-3" data-background-image="" data-background-position="100% 50%" data-background-size="100%" data-background-repeat="no-repeat" data-background="#868686" >
+							<div class="inner-content">
+								<div class="container ">
 									<p class="font-25 margin-top-20">There’s a common dispute that comes up in the football world and it revolves around one simple<br /> statement;</p>
 									<p id="force" class="font-25 margin-top-20 text-shadow-42">“the <span class="sss-yellow">shoes</span> you <span class="sss-yellow">wear</span> do not make you<br /><span class="sss-yellow">a better player</span>.”</p>
 								</div>
 							</div>
 						</section>
-						<section data-transition="slide" class="color-white slide-3" data-background-image="" data-background-position="100% 45%" data-background-size="100% 86px" data-background-repeat="no-repeat" data-background="#868686" >
+						<section data-transition="slide" class="color-white slide-4" data-background-image="" data-background-position="100% 45%" data-background-size="100% 86px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="inner-content">
 								<p class="font-25 " data--index="1">Though there is some truth to that statement,</p>
 								<div class="text-background">
@@ -110,7 +117,7 @@
 								<p class="font-25  line-1-215" data--index="1">that without the proper footwear,<br />you’re putting yourself at a huge disadvantage.</p>
 							</div>
 						</section>
-						<section data-transition="slide" class="color-gray slide-4" data-background="#00000" >
+						<section data-transition="slide" class="color-gray slide-5" data-background="#00000" >
 							<div class="inner-content ">
 								<div class="container">
 									<p class="font-25 line-1-215">Over the past century there have been <br /><span class='sss-yellow'>countless versions</span> of the <span class='sss-yellow'>football boot</span>,</p>
@@ -128,7 +135,7 @@
 								</div>
 							</div>
 						</section>
-						<section data-transition="slide" data-state="bg-graytowhite" class="color-white slide-5" data-background="#00000" >
+						<section data-transition="slide" data-state="bg-graytowhite" class="color-white slide-6" data-background="#00000" >
 							<div class="inner-content ">
 								<div class="container">
 									<p class="font-25 line-1-275">
@@ -253,8 +260,7 @@ ABOUT OUR HISTORY </a></p>
 							<div class="clear"></div>
 							<div class="guide-button-container">
 								<div class="guide-button">
-									<p class="circularpro-book font-11"><a href="https://become.sssports.com/football-shooting-tips-and-techniques/" target="_blank">FOOTBALL SHOOTING TECHNIQUES <br>
-CLICK HERE</a></p>
+									<p class="circularpro-book font-11"><a href="https://become.sssports.com/football-shooting-tips-and-techniques/" target="_blank">Tips and Tricks on <br/>how to master the game. <br/>Click here </a></p>
 								</div>
 							</div>
 						</section>
@@ -450,11 +456,7 @@ CLICK HERE</a></p>
 								</div>
 							</div>
 							<div class="clear"></div>
-							<div class="guide-button-container">
-								<div class="guide-button">
-									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/brands/nike" target="_blank">SHOP FOR NIKE<br> FOOTBALL BOOTS </a></p>
-								</div>
-							</div>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/4"><img src="images/to-top.png"></a>
@@ -547,7 +549,7 @@ CLICK HERE</a></p>
 							<div class="clear"></div>
 							<div class="guide-button-container">
 								<div class="guide-button">
-									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/brands/puma" target="_blank">SHOP FOR PUMA<br> FOOTBALL BOOTS </a></p>
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/sports/football" target="_blank">SHOP FOOTBALL <br> ACCESSORIES </a></p>
 								</div>
 							</div>
 						</section>
@@ -599,6 +601,12 @@ CLICK HERE</a></p>
 									</div>
 								</div>
 							</div>
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/mens/shoes/football-shoes" target="_blank">SHOP NIKE <br> FOOTBALL SHOES </a></p>
+								</div>
+							</div>
 						</section>
 						<section data-transition="slide" class="color-white slide-4" data-background-image="images/bg-black-279.jpg" data-background-position="100% 50%" data-background-size="100% 279px" data-background-repeat="no-repeat" data-background="#868686" >
 							<div class="container">
@@ -618,6 +626,12 @@ CLICK HERE</a></p>
 											</p>
 										</div>
 									</div>
+								</div>
+							</div>
+							<div class="clear"></div>
+							<div class="guide-button-container">
+								<div class="guide-button">
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/mens/shoes/football-shoes" target="_blank">SHOP PUMA <br> FOOTBALL SHOES </a></p>
 								</div>
 							</div>
 						</section>
@@ -654,9 +668,10 @@ CLICK HERE</a></p>
 							<div class="clear"></div>
 							<div class="guide-button-container">
 								<div class="guide-button">
-									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/sports/football?cat=587" target="_blank">SHOP FOR <br>FOOTBALL ACCESSORIES </a></p>
+									<p class="circularpro-book font-11"><a href="https://en-ae.sssports.com/mens/shoes/football-shoes" target="_blank">SHOP ADIDAS <br> FOOTBALL SHOES </a></p>
 								</div>
 							</div>
+
 						</section>
 						<div class="to-top-scroller">
 							<a href="#/6"><img src="images/to-top.png"></a>
@@ -937,19 +952,28 @@ CLICK HERE</a></p>
 							<div class="inner-content">
 								<div class="bg-container">
 									<div class="container">
-										<p class="circularpro-book font-25 color-gray">
-											MANUFACTURERS ARE NO LONGER REQUIRED TO CHOOSE BETWEEN <br>
-											<span class="sss-yellow">PROTECTION</span>, <span class="sss-yellow">PERFORMANCE</span>, OR <span class="sss-yellow">STYLE</span>. <br>
-											– ALL THREE CAN BE COMBINED AND DELIVERED IN THE SAME DESIGN. <br>
-											<span class="sss-yellow">AS LONG AS THERE IS FOOTBALL</span>, <br>
-											THERE WILL ALWAYS BE A NEED FOR <br>
-											<span class="sss-yellow">FOOTBALL BOOTS</span>.
+										<iframe width="560" height="315" src="https://www.youtube.com/embed/HYhVEqQyL-o" frameborder="0" allowfullscreen></iframe>
+									</div>
+								</div>
+							</div>
+
+						</section>
+						<section data-transition="slide" data-state="" class="slide-7" data-background-image="" data-background-position="100% 50%" data-background-size="100% 330px" data-background-repeat="no-repeat" >
+							<div class="inner-content">
+								<div class="bg-container">
+									<div class="container">
+										<p class="circularpro-book font-25 color-gray line-1-215">
+											MANUFACTURERS ARE NO LONGER REQUIRED TO CHOOSE BETWEEN <br/>
+											<span class="sss-yellow">PROTECTION</span>, <span class="sss-yellow">PERFORMANCE</span>, OR <span class="sss-yellow">STYLE</span>. <br/>
+											NOW ALL THREE CAN BE <span class="sss-yellow">COMBINED</span> AND <span class="sss-yellow">DELIVERED</span> IN THE <span class="sss-yellow">SAME DESIGN</span>. <br/>
+											HAVE YOU GOT WHAT IT TAKES TO BE A <span class="sss-yellow">CHAMPION</span>? <br/>
 										</p>
 
 										<div class="guide-button-container">
 											<div class="guide-button">
-												<p class="circularpro-book font-11"><a href="http://en-ae.sssports.com/sports/football" target="_blank">click here for more <br>
-football boots </a></p>
+												<p class="circularpro-book font-11"><a href="http://en-ae.sssports.com/sports/football" target="_blank">
+													Dominate The Game. <br/> Shop Now
+												</a></p>
 											</div>
 										</div>
 									</div>
@@ -970,6 +994,7 @@ football boots </a></p>
 							<li id="slide-0-2" class='slider-bullets'><a href="#/0/2"></a></li>
 							<li id="slide-0-3" class='slider-bullets'><a href="#/0/3"></a></li>
 							<li id="slide-0-4" class='slider-bullets'><a href="#/0/4"></a></li>
+							<li id="slide-0-5" class='slider-bullets'><a href="#/0/5"></a></li>
 						</ul>
 					</div>
 				</div>
@@ -1076,6 +1101,7 @@ football boots </a></p>
 							<li id="slide-9-3" class='slider-bullets'><a href="#/9/3"></a></li>
 							<li id="slide-9-4" class='slider-bullets'><a href="#/9/4"></a></li>
 							<li id="slide-9-5" class='slider-bullets'><a href="#/9/5"></a></li>
+							<li id="slide-9-6" class='slider-bullets'><a href="#/9/6"></a></li>
 						</ul>
 					</div>
 				</div>
